@@ -1,6 +1,5 @@
 [  
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ack\\s&\\sbrunt",
       "name":"Ack & Brunt",
       "url":"",
@@ -20,12 +19,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"amphis",
       "name":"Amphis",
       "url":"",
@@ -45,12 +44,12 @@
       "crit_chance":"7.5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"anku",
       "name":"Anku",
       "url":"",
@@ -70,12 +69,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ankyros",
       "name":"Ankyros",
       "url":"",
@@ -95,12 +94,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ankyros\\sprime",
       "name":"Ankyros Prime",
       "url":"",
@@ -120,12 +119,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"atterax",
       "name":"Atterax",
       "url":"",
@@ -145,12 +144,12 @@
       "crit_chance":"25%",
       "crit_mult":"3.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"bo",
       "name":"Bo",
       "url":"",
@@ -170,12 +169,12 @@
       "crit_chance":"12.5%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"bo,\\smk1",
       "name":"Bo, Mk1",
       "url":"",
@@ -195,12 +194,12 @@
       "crit_chance":"12.5%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"bo\\sprime",
       "name":"Bo Prime",
       "url":"",
@@ -220,12 +219,12 @@
       "crit_chance":"12.5%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778><:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"boltace",
       "name":"Boltace",
       "url":"",
@@ -245,12 +244,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"boltace,\\stelos",
       "name":"Boltace, Telos",
       "url":"",
@@ -270,12 +269,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"broken\\sscepter",
       "name":"Broken Scepter",
       "url":"",
@@ -295,12 +294,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"30%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"broken\\swar",
       "name":"Broken War",
       "url":"",
@@ -320,12 +319,12 @@
       "crit_chance":"15%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"caustacyst",
       "name":"Caustacyst",
       "url":"",
@@ -345,12 +344,12 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"30%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ceramic\\sdagger",
       "name":"Ceramic Dagger",
       "url":"",
@@ -370,12 +369,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"cerata",
       "name":"Cerata",
       "url":"",
@@ -395,12 +394,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"30%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"cronus",
       "name":"Cronus",
       "url":"",
@@ -420,12 +419,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dakra\\sprime",
       "name":"Dakra Prime",
       "url":"",
@@ -445,12 +444,12 @@
       "crit_chance":"15%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dark\\sdagger",
       "name":"Dark Dagger",
       "url":"",
@@ -470,12 +469,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dark\\sdagger,\\srakta",
       "name":"Dark Dagger, Rakta",
       "url":"",
@@ -495,12 +494,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dark\\ssplit-sword\\s(dual)",
       "name":"Dark Split-Sword (Dual)",
       "url":"",
@@ -520,12 +519,12 @@
       "crit_chance":"25%",
       "crit_mult":"2.5x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dark\\ssplit-sword\\s(heavy)",
       "name":"Dark Split-Sword (Heavy)",
       "url":"",
@@ -545,12 +544,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dark\\ssword",
       "name":"Dark Sword",
       "url":"",
@@ -570,12 +569,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"destreza",
       "name":"Destreza",
       "url":"",
@@ -595,12 +594,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"5%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dex\\sdakra",
       "name":"Dex Dakra",
       "url":"",
@@ -620,12 +619,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\scleavers",
       "name":"Dual Cleavers",
       "url":"",
@@ -645,12 +644,12 @@
       "crit_chance":"25%",
       "crit_mult":"3.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\scleavers,\\sprisma",
       "name":"Dual Cleavers, Prisma",
       "url":"",
@@ -670,12 +669,12 @@
       "crit_chance":"25%",
       "crit_mult":"3.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\sether",
       "name":"Dual Ether",
       "url":"",
@@ -695,12 +694,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\sheat\\sswords",
       "name":"Dual Heat Swords",
       "url":"",
@@ -720,12 +719,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\sichor",
       "name":"Dual Ichor",
       "url":"",
@@ -745,12 +744,12 @@
       "crit_chance":"25%",
       "crit_mult":"3.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\skamas",
       "name":"Dual Kamas",
       "url":"",
@@ -770,12 +769,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"7.5%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\skamas\\sprime",
       "name":"Dual Kamas Prime",
       "url":"",
@@ -795,12 +794,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\sraza",
       "name":"Dual Raza",
       "url":"",
@@ -820,12 +819,12 @@
       "crit_chance":"20%",
       "crit_mult":"3.0x",
       "status_chance":"5%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\sskana",
       "name":"Dual Skana",
       "url":"",
@@ -845,12 +844,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"dual\\szoren",
       "name":"Dual Zoren",
       "url":"",
@@ -870,12 +869,12 @@
       "crit_chance":"25%",
       "crit_mult":"3.0x",
       "status_chance":"5%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"endura",
       "name":"Endura",
       "url":"",
@@ -895,12 +894,12 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ether\\sdaggers",
       "name":"Ether Daggers",
       "url":"",
@@ -920,12 +919,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ether\\sreaper",
       "name":"Ether Reaper",
       "url":"",
@@ -945,12 +944,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ether\\ssword",
       "name":"Ether Sword",
       "url":"",
@@ -970,12 +969,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"fang",
       "name":"Fang",
       "url":"",
@@ -995,12 +994,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"8%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"fang\\sprime",
       "name":"Fang Prime",
       "url":"",
@@ -1020,12 +1019,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"5%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"fragor",
       "name":"Fragor",
       "url":"",
@@ -1045,12 +1044,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.8x",
       "regex":"fragor\\sprime",
       "name":"Fragor Prime",
       "url":"",
@@ -1070,12 +1069,12 @@
       "crit_chance":"35%",
       "crit_mult":"2.5x",
       "status_chance":"10%",
+      "channeling":"1.8x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"furax",
       "name":"Furax",
       "url":"",
@@ -1095,12 +1094,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"furax,\\smk1",
       "name":"Furax, Mk1",
       "url":"",
@@ -1120,12 +1119,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.8x",
       "regex":"furax\\swraith",
       "name":"Furax Wraith",
       "url":"",
@@ -1145,12 +1144,12 @@
       "crit_chance":"25%",
       "crit_mult":"2.5x",
       "status_chance":"10%",
+      "channeling":"1.8x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"galatine",
       "name":"Galatine",
       "url":"",
@@ -1170,12 +1169,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"galatine\\sprime",
       "name":"Galatine Prime",
       "url":"",
@@ -1195,12 +1194,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"gazal\\smachete",
       "name":"Gazal Machete",
       "url":"",
@@ -1220,12 +1219,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"glaive",
       "name":"Glaive",
       "url":"",
@@ -1245,12 +1244,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"glaive\\sprime",
       "name":"Glaive Prime",
       "url":"",
@@ -1270,12 +1269,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"30%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"gram",
       "name":"Gram",
       "url":"",
@@ -1295,12 +1294,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"guandao",
       "name":"Guandao",
       "url":"",
@@ -1320,12 +1319,12 @@
       "crit_chance":"24%",
       "crit_mult":"2.2x",
       "status_chance":"4%",
+      "channeling":"1.5x",
       "polarities":"?",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"halikar",
       "name":"Halikar",
       "url":"",
@@ -1345,12 +1344,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"hate",
       "name":"Hate",
       "url":"",
@@ -1370,12 +1369,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.5x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"heat\\sdagger",
       "name":"Heat Dagger",
       "url":"",
@@ -1395,12 +1394,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"5%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"heat\\ssword",
       "name":"Heat Sword",
       "url":"",
@@ -1420,12 +1419,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"heliocor",
       "name":"Heliocor",
       "url":"",
@@ -1445,12 +1444,12 @@
       "crit_chance":"25%",
       "crit_mult":"2.0x",
       "status_chance":"2.5%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.8x",
       "regex":"heliocor,\\ssynoid",
       "name":"Heliocor, Synoid",
       "url":"",
@@ -1470,12 +1469,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.8x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"hirudo",
       "name":"Hirudo",
       "url":"",
@@ -1495,12 +1494,12 @@
       "crit_chance":"15%",
       "crit_mult":"3.0x",
       "status_chance":"5%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"jat\\skittag",
       "name":"Jat Kittag",
       "url":"",
@@ -1520,12 +1519,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"jaw\\ssword",
       "name":"Jaw Sword",
       "url":"",
@@ -1545,12 +1544,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"kama",
       "name":"Kama",
       "url":"",
@@ -1570,12 +1569,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"2%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"karyst",
       "name":"Karyst",
       "url":"",
@@ -1595,12 +1594,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"kesheg",
       "name":"Kesheg",
       "url":"",
@@ -1620,12 +1619,12 @@
       "crit_chance":"7.5%",
       "crit_mult":"2.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"kestrel",
       "name":"Kestrel",
       "url":"",
@@ -1645,12 +1644,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"kogake",
       "name":"Kogake",
       "url":"",
@@ -1670,12 +1669,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"kronen",
       "name":"Kronen",
       "url":"",
@@ -1695,12 +1694,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"lacera",
       "name":"Lacera",
       "url":"",
@@ -1720,12 +1719,12 @@
       "crit_chance":"2.5%",
       "crit_mult":"2.0x",
       "status_chance":"45%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"lecta",
       "name":"Lecta",
       "url":"",
@@ -1745,12 +1744,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"lecta,\\ssecura",
       "name":"Lecta, Secura",
       "url":"",
@@ -1770,12 +1769,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"lesion",
       "name":"Lesion",
       "url":"",
@@ -1795,12 +1794,12 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"30%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"machete",
       "name":"Machete",
       "url":"",
@@ -1820,12 +1819,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"machete\\swraith",
       "name":"Machete Wraith",
       "url":"",
@@ -1845,12 +1844,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"magistar",
       "name":"Magistar",
       "url":"",
@@ -1870,12 +1869,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"magistar,\\ssancti",
       "name":"Magistar, Sancti",
       "url":"",
@@ -1895,12 +1894,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"mios",
       "name":"Mios",
       "url":"",
@@ -1920,12 +1919,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"mire",
       "name":"Mire",
       "url":"",
@@ -1945,12 +1944,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"nami\\sskyla",
       "name":"Nami Skyla",
       "url":"",
@@ -1970,12 +1969,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"nami\\ssolo",
       "name":"Nami Solo",
       "url":"",
@@ -1995,12 +1994,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"nikana",
       "name":"Nikana",
       "url":"",
@@ -2020,12 +2019,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"nikana,\\sdragon",
       "name":"Nikana, Dragon",
       "url":"",
@@ -2045,12 +2044,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"nikana\\sprime",
       "name":"Nikana Prime",
       "url":"",
@@ -2070,12 +2069,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ninkondi",
       "name":"Ninkondi",
       "url":"",
@@ -2095,12 +2094,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"35%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"obex",
       "name":"Obex",
       "url":"",
@@ -2120,12 +2119,12 @@
       "crit_chance":"25%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"obex,\\sprisma",
       "name":"Obex, Prisma",
       "url":"",
@@ -2145,12 +2144,12 @@
       "crit_chance":"25%",
       "crit_mult":"2.0x",
       "status_chance":"30%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ohma",
       "name":"Ohma",
       "url":"",
@@ -2170,12 +2169,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"30%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"okina",
       "name":"Okina",
       "url":"",
@@ -2195,12 +2194,12 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"orthos",
       "name":"Orthos",
       "url":"",
@@ -2220,12 +2219,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"orthos\\sprime",
       "name":"Orthos Prime",
       "url":"",
@@ -2245,12 +2244,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"orvius",
       "name":"Orvius",
       "url":"",
@@ -2270,12 +2269,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048><:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"pangolin\\ssword",
       "name":"Pangolin Sword",
       "url":"",
@@ -2295,12 +2294,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"12%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"plasma\\ssword",
       "name":"Plasma Sword",
       "url":"",
@@ -2320,12 +2319,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"prova",
       "name":"Prova",
       "url":"",
@@ -2345,12 +2344,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"prova\\svandal",
       "name":"Prova Vandal",
       "url":"",
@@ -2370,12 +2369,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"reaper\\sprime",
       "name":"Reaper Prime",
       "url":"",
@@ -2395,12 +2394,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"12%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"redeemer",
       "name":"Redeemer",
       "url":"",
@@ -2420,12 +2419,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"ripkas",
       "name":"Ripkas",
       "url":"",
@@ -2445,12 +2444,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"sarpa",
       "name":"Sarpa",
       "url":"",
@@ -2470,12 +2469,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"scindo",
       "name":"Scindo",
       "url":"",
@@ -2495,12 +2494,12 @@
       "crit_chance":"15%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"scindo\\sprime",
       "name":"Scindo Prime",
       "url":"",
@@ -2520,12 +2519,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"scoliac",
       "name":"Scoliac",
       "url":"",
@@ -2545,12 +2544,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"serro",
       "name":"Serro",
       "url":"",
@@ -2570,12 +2569,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"shaku",
       "name":"Shaku",
       "url":"",
@@ -2595,12 +2594,12 @@
       "crit_chance":"7.5%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"sheev",
       "name":"Sheev",
       "url":"",
@@ -2620,12 +2619,12 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"sibear",
       "name":"Sibear",
       "url":"",
@@ -2645,12 +2644,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"silva\\s&\\saegis",
       "name":"Silva & Aegis",
       "url":"",
@@ -2670,12 +2669,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"silva\\s&\\saegis\\sprime",
       "name":"Silva & Aegis Prime",
       "url":"",
@@ -2695,12 +2694,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:vazarin:319586146269003778><:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"skana",
       "name":"Skana",
       "url":"",
@@ -2720,12 +2719,12 @@
       "crit_chance":"5%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"skana\\sprime",
       "name":"Skana Prime",
       "url":"",
@@ -2745,12 +2744,12 @@
       "crit_chance":"10%",
       "crit_mult":"1.5x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496><:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"skana,\\sprisma",
       "name":"Skana, Prisma",
       "url":"",
@@ -2770,12 +2769,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"sydon",
       "name":"Sydon",
       "url":"",
@@ -2795,12 +2794,12 @@
       "crit_chance":"10%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"sydon,\\svaykor",
       "name":"Sydon, Vaykor",
       "url":"",
@@ -2820,12 +2819,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"tekko",
       "name":"Tekko",
       "url":"",
@@ -2845,12 +2844,12 @@
       "crit_chance":"30%",
       "crit_mult":"2.0x",
       "status_chance":"10%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"tipedo",
       "name":"Tipedo",
       "url":"",
@@ -2870,12 +2869,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:vazarin:319586146269003778>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"tonbo",
       "name":"Tonbo",
       "url":"",
@@ -2895,12 +2894,12 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"twin\\sbasolk",
       "name":"Twin Basolk",
       "url":"",
@@ -2920,12 +2919,12 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"40%",
+      "channeling":"1.5x",
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"venka",
       "name":"Venka",
       "url":"",
@@ -2945,12 +2944,12 @@
       "crit_chance":"15%",
       "crit_mult":"2.0x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"venka\\sprime",
       "name":"Venka Prime",
       "url":"",
@@ -2970,12 +2969,12 @@
       "crit_chance":"25%",
       "crit_mult":"2.5x",
       "status_chance":"15%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048><:madurai:319586146499690496>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"war",
       "name":"War",
       "url":"",
@@ -2995,12 +2994,12 @@
       "crit_chance":"20%",
       "crit_mult":"2.0x",
       "status_chance":"20%",
+      "channeling":"1.5x",
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"",
       "location":""
    },
    {  
-      "Channeling Damage":"1.5x",
       "regex":"zenistar",
       "name":"Zenistar",
       "url":"",
@@ -3020,6 +3019,7 @@
       "crit_chance":"5%",
       "crit_mult":"2.0x",
       "status_chance":"25%",
+      "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"",
       "location":""
