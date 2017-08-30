@@ -1,0 +1,25 @@
+Blast: <:blast:321463957292318720>
+
+Cold: <:cold:321463957019951105>
+
+Corrosive: <:corrosive:321463957305032714>
+
+Electricity": "<:electricity:321463957212626944>
+
+Gas: <:gas:321463957259026432>
+
+Heat: <:heat:321463957061763083>
+
+Impact: <:impact:321463957221015562>
+
+Magnetic: <:magnetic:321463957984641024>
+
+Puncture: <:puncture:321463957296775168>
+
+Radiation: <:radiation:321463957221277706>
+
+Slash: <:slash:321463957296644103>
+
+Toxin: <:toxin:321463957325873153>
+
+Viral: <:viral:321463957292580864>
