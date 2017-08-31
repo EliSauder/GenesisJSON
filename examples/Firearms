@@ -1,7 +1,7 @@
 [
 	{
-		"regex": "name\\sin\\slowercase", (all regex need to be lower case and if they have two words should have \\s instead of a space)
-		"name": "Name",
+		"regex": "amprex", (all regex need to be lower case and if they have two words should have \\s instead of a space)
+		"name": "Amprex",
 		"url": "http://warframe.wikia.com/wiki/Amprex", (using amprex as example)
 		"mr": 5,  (whatever the mastery rank lock is of a weapon) 
 		"type": "Primary", 
