@@ -11,7 +11,7 @@
   "ammo":"800",
   "polarities":"None",
   "thumbnail":"https://vignette1.wikia.nocookie.net/warframe/images/d/d6/TnBardRifle.png/revision/latest/scale-to-width-down/220?cb=20170324230206",
-  "location":"dojo",
+  "location":"Dojo",
   "primary": {
     "trigger":"Auto",
     "projectile":"Hit-Scan",

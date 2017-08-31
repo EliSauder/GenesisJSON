@@ -1,7 +1,7 @@
-[  
-   {  
+[
+   {
       "regex":"ack\\s&\\sbrunt", (Regex is all lowercase and spaces should be replaced with \\s)
-      "name":"Ack & Brunt", 
+      "name":"Ack & Brunt",
       "url":"http://warframe.wikia.com/wiki/Ack_%26_Brunt",  (warframe Wiki url)
       "mr":3,   (Mr lock on the weapon)
       "type":"Melee",
@@ -22,6 +22,6 @@
       "channeling":"1.5x",
       "polarities":"None",
       "thumbnail":"https://vignette2.wikia.nocookie.net/warframe/images/4/41/RegorAxeShield.png/revision/latest/scale-to-width-down/220?cb=20150731174942",  (wiki image url of the weapon)
-      "location":"dojo"  (where you can get the bp/weapon)
+      "location":"Dojo"  (where you can get the bp/weapon)
    }
 ]
