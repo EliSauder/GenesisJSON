@@ -2,7 +2,7 @@
    {
       "regex":"ack\\s&\\sbrunt",
       "name":"Ack & Brunt",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Ack_%26_Brunt",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -27,7 +27,7 @@
    {
       "regex":"amphis",
       "name":"Amphis",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Amphis",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -52,7 +52,7 @@
    {
       "regex":"anku",
       "name":"Anku",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Anku",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -77,7 +77,7 @@
    {
       "regex":"ankyros",
       "name":"Ankyros",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Ankyros",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -102,7 +102,7 @@
    {
       "regex":"ankyros\\sprime",
       "name":"Ankyros Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Ankyros_Prime",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -127,7 +127,7 @@
    {
       "regex":"atterax",
       "name":"Atterax",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Atterax",
       "mr":2,
       "type":"Melee",
       "subtype":"",
@@ -152,7 +152,7 @@
    {
       "regex":"bo",
       "name":"Bo",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Bo",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -177,7 +177,7 @@
    {
       "regex":"bo,\\smk1",
       "name":"Bo, Mk1",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/MK1-Bo",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -202,7 +202,7 @@
    {
       "regex":"bo\\sprime",
       "name":"Bo Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Bo_Prime",
       "mr":5,
       "type":"Melee",
       "subtype":"",
@@ -227,7 +227,7 @@
    {
       "regex":"boltace",
       "name":"Boltace",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Boltace",
       "mr":2,
       "type":"Melee",
       "subtype":"",
@@ -252,7 +252,7 @@
    {
       "regex":"boltace,\\stelos",
       "name":"Boltace, Telos",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Telos_Boltace",
       "mr":8,
       "type":"Melee",
       "subtype":"",
@@ -277,7 +277,7 @@
    {
       "regex":"broken\\sscepter",
       "name":"Broken Scepter",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Broken_Scepter",
       "mr":null,
       "type":"Melee",
       "subtype":"",
@@ -302,7 +302,7 @@
    {
       "regex":"broken\\swar",
       "name":"Broken War",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Broken_War",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -327,7 +327,7 @@
    {
       "regex":"caustacyst",
       "name":"Caustacyst",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Caustacyst",
       "mr":7,
       "type":"Melee",
       "subtype":"",
@@ -352,7 +352,7 @@
    {
       "regex":"ceramic\\sdagger",
       "name":"Ceramic Dagger",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Ceramic_Dagger",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -377,7 +377,7 @@
    {
       "regex":"cerata",
       "name":"Cerata",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Cerata",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -402,7 +402,7 @@
    {
       "regex":"cronus",
       "name":"Cronus",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Cronus",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -427,7 +427,7 @@
    {
       "regex":"dakra\\sprime",
       "name":"Dakra Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dakra_Prime",
       "mr":6,
       "type":"Melee",
       "subtype":"",
@@ -452,7 +452,7 @@
    {
       "regex":"dark\\sdagger",
       "name":"Dark Dagger",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dark_Dagger",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -477,7 +477,7 @@
    {
       "regex":"dark\\sdagger,\\srakta",
       "name":"Dark Dagger, Rakta",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Rakta_Dark_Dagger",
       "mr":8,
       "type":"Melee",
       "subtype":"",
@@ -502,7 +502,7 @@
    {
       "regex":"dark\\ssplit-sword\\s(dual)",
       "name":"Dark Split-Sword (Dual)",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dark_Split-Sword_(Dual_Swords)",
       "mr":5,
       "type":"Melee",
       "subtype":"",
@@ -527,7 +527,7 @@
    {
       "regex":"dark\\ssplit-sword\\s(heavy)",
       "name":"Dark Split-Sword (Heavy)",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dark_Split-Sword_(Heavy_Blade)",
       "mr":5,
       "type":"Melee",
       "subtype":"",
@@ -552,7 +552,7 @@
    {
       "regex":"dark\\ssword",
       "name":"Dark Sword",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dark_Sword",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -577,7 +577,7 @@
    {
       "regex":"destreza",
       "name":"Destreza",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Destreza",
       "mr":7,
       "type":"Melee",
       "subtype":"",
@@ -602,7 +602,7 @@
    {
       "regex":"dex\\sdakra",
       "name":"Dex Dakra",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dex_Dakra",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -627,7 +627,7 @@
    {
       "regex":"dual\\scleavers",
       "name":"Dual Cleavers",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Cleavers",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -652,7 +652,7 @@
    {
       "regex":"dual\\scleavers,\\sprisma",
       "name":"Dual Cleavers, Prisma",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Prisma_Dual_Cleavers",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -677,7 +677,7 @@
    {
       "regex":"dual\\sether",
       "name":"Dual Ether",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Ether",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -702,7 +702,7 @@
    {
       "regex":"dual\\sheat\\sswords",
       "name":"Dual Heat Swords",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Heat_Swords",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -727,7 +727,7 @@
    {
       "regex":"dual\\sichor",
       "name":"Dual Ichor",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Ichor",
       "mr":6,
       "type":"Melee",
       "subtype":"",
@@ -752,7 +752,7 @@
    {
       "regex":"dual\\skamas",
       "name":"Dual Kamas",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Kamas",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -777,7 +777,7 @@
    {
       "regex":"dual\\skamas\\sprime",
       "name":"Dual Kamas Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Kamas_Prime",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -802,7 +802,7 @@
    {
       "regex":"dual\\sraza",
       "name":"Dual Raza",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Raza",
       "mr":6,
       "type":"Melee",
       "subtype":"",
@@ -827,7 +827,7 @@
    {
       "regex":"dual\\sskana",
       "name":"Dual Skana",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Skana",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -852,7 +852,7 @@
    {
       "regex":"dual\\szoren",
       "name":"Dual Zoren",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Dual_Zoren",
       "mr":2,
       "type":"Melee",
       "subtype":"",
@@ -877,7 +877,7 @@
    {
       "regex":"endura",
       "name":"Endura",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Endura",
       "mr":7,
       "type":"Melee",
       "subtype":"",
@@ -902,7 +902,7 @@
    {
       "regex":"ether\\sdaggers",
       "name":"Ether Daggers",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Ether_Daggers",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -927,7 +927,7 @@
    {
       "regex":"ether\\sreaper",
       "name":"Ether Reaper",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Ether_Reaper",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -952,7 +952,7 @@
    {
       "regex":"ether\\ssword",
       "name":"Ether Sword",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Ether_Sword",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -977,7 +977,7 @@
    {
       "regex":"fang",
       "name":"Fang",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Fang",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -1002,7 +1002,7 @@
    {
       "regex":"fang\\sprime",
       "name":"Fang Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Fang_Prime",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -1027,7 +1027,7 @@
    {
       "regex":"fragor",
       "name":"Fragor",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Fragor",
       "mr":2,
       "type":"Melee",
       "subtype":"",
@@ -1052,7 +1052,7 @@
    {
       "regex":"fragor\\sprime",
       "name":"Fragor Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Fragor_Prime",
       "mr":7,
       "type":"Melee",
       "subtype":"",
@@ -1077,7 +1077,7 @@
    {
       "regex":"furax",
       "name":"Furax",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Furax",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -1102,7 +1102,7 @@
    {
       "regex":"furax,\\smk1",
       "name":"Furax, Mk1",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/MK1-Furax",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -1127,7 +1127,7 @@
    {
       "regex":"furax\\swraith",
       "name":"Furax Wraith",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Furax_Wraith",
       "mr":0,
       "type":"Melee",
       "subtype":"",
@@ -1152,7 +1152,7 @@
    {
       "regex":"galatine",
       "name":"Galatine",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Galatine",
       "mr":3,
       "type":"Melee",
       "subtype":"",
@@ -1177,7 +1177,7 @@
    {
       "regex":"galatine\\sprime",
       "name":"Galatine Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Galatine_Prime",
       "mr":13,
       "type":"Melee",
       "subtype":"",
@@ -1202,7 +1202,7 @@
    {
       "regex":"gazal\\smachete",
       "name":"Gazal Machete",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Gazal_Machete",
       "mr":5,
       "type":"Melee",
       "subtype":"",
@@ -1227,7 +1227,7 @@
    {
       "regex":"glaive",
       "name":"Glaive",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Glaive",
       "mr":1,
       "type":"Melee",
       "subtype":"",
@@ -1252,7 +1252,7 @@
    {
       "regex":"glaive\\sprime",
       "name":"Glaive Prime",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Glaive_Prime",
       "mr":10,
       "type":"Melee",
       "subtype":"",
@@ -1277,7 +1277,7 @@
    {
       "regex":"gram",
       "name":"Gram",
-      "url":"",
+      "url":"http://warframe.wikia.com/wiki/Gram",
       "mr":2,
       "type":"Melee",
       "subtype":"",
