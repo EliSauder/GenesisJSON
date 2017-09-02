@@ -1,6 +1,6 @@
 [
    {
-      "regex":"ack\\s&\\sbrunt",
+      "regex":"^ack\\s&\\sbrunt$",
       "name":"Ack & Brunt",
       "url":"http://warframe.wikia.com/wiki/Ack_%26_Brunt",
       "mr":3,
@@ -25,7 +25,7 @@
       "location":""
    },
    {
-      "regex":"amphis",
+      "regex":"^amphis$",
       "name":"Amphis",
       "url":"http://warframe.wikia.com/wiki/Amphis",
       "mr":0,
@@ -50,7 +50,7 @@
       "location":""
    },
    {
-      "regex":"anku",
+      "regex":"^anku$",
       "name":"Anku",
       "url":"http://warframe.wikia.com/wiki/Anku",
       "mr":3,
@@ -75,7 +75,7 @@
       "location":""
    },
    {
-      "regex":"ankyros",
+      "regex":"^ankyros$",
       "name":"Ankyros",
       "url":"http://warframe.wikia.com/wiki/Ankyros",
       "mr":0,
@@ -100,7 +100,7 @@
       "location":""
    },
    {
-      "regex":"ankyros\\sprime",
+      "regex":"^ankyros\\sprime$",
       "name":"Ankyros Prime",
       "url":"http://warframe.wikia.com/wiki/Ankyros_Prime",
       "mr":0,
@@ -125,7 +125,7 @@
       "location":""
    },
    {
-      "regex":"atterax",
+      "regex":"^atterax$",
       "name":"Atterax",
       "url":"http://warframe.wikia.com/wiki/Atterax",
       "mr":2,
@@ -150,7 +150,7 @@
       "location":""
    },
    {
-      "regex":"bo",
+      "regex":"^bo$",
       "name":"Bo",
       "url":"http://warframe.wikia.com/wiki/Bo",
       "mr":0,
@@ -175,7 +175,7 @@
       "location":""
    },
    {
-      "regex":"bo,\\smk1",
+      "regex":"^bo,\\smk1$",
       "name":"Bo, Mk1",
       "url":"http://warframe.wikia.com/wiki/MK1-Bo",
       "mr":0,
@@ -200,7 +200,7 @@
       "location":""
    },
    {
-      "regex":"bo\\sprime",
+      "regex":"^bo\\sprime$",
       "name":"Bo Prime",
       "url":"http://warframe.wikia.com/wiki/Bo_Prime",
       "mr":5,
@@ -225,7 +225,7 @@
       "location":""
    },
    {
-      "regex":"boltace",
+      "regex":"^boltace$",
       "name":"Boltace",
       "url":"http://warframe.wikia.com/wiki/Boltace",
       "mr":2,
@@ -250,7 +250,7 @@
       "location":""
    },
    {
-      "regex":"boltace,\\stelos",
+      "regex":"^boltace,\\stelos$",
       "name":"Boltace, Telos",
       "url":"http://warframe.wikia.com/wiki/Telos_Boltace",
       "mr":8,
@@ -275,7 +275,7 @@
       "location":""
    },
    {
-      "regex":"broken\\sscepter",
+      "regex":"^broken\\sscepter$",
       "name":"Broken Scepter",
       "url":"http://warframe.wikia.com/wiki/Broken_Scepter",
       "mr":null,
@@ -300,7 +300,7 @@
       "location":""
    },
    {
-      "regex":"broken\\swar",
+      "regex":"^broken\\swar$",
       "name":"Broken War",
       "url":"http://warframe.wikia.com/wiki/Broken_War",
       "mr":3,
@@ -325,7 +325,7 @@
       "location":""
    },
    {
-      "regex":"caustacyst",
+      "regex":"^caustacyst$",
       "name":"Caustacyst",
       "url":"http://warframe.wikia.com/wiki/Caustacyst",
       "mr":7,
@@ -350,7 +350,7 @@
       "location":""
    },
    {
-      "regex":"ceramic\\sdagger",
+      "regex":"^ceramic\\sdagger$",
       "name":"Ceramic Dagger",
       "url":"http://warframe.wikia.com/wiki/Ceramic_Dagger",
       "mr":3,
@@ -375,7 +375,7 @@
       "location":""
    },
    {
-      "regex":"cerata",
+      "regex":"^cerata$",
       "name":"Cerata",
       "url":"http://warframe.wikia.com/wiki/Cerata",
       "mr":3,
@@ -400,7 +400,7 @@
       "location":""
    },
    {
-      "regex":"cronus",
+      "regex":"^cronus$",
       "name":"Cronus",
       "url":"http://warframe.wikia.com/wiki/Cronus",
       "mr":0,
@@ -425,7 +425,7 @@
       "location":""
    },
    {
-      "regex":"dakra\\sprime",
+      "regex":"^dakra\\sprime$",
       "name":"Dakra Prime",
       "url":"http://warframe.wikia.com/wiki/Dakra_Prime",
       "mr":6,
@@ -450,7 +450,7 @@
       "location":""
    },
    {
-      "regex":"dark\\sdagger",
+      "regex":"^dark\\sdagger$",
       "name":"Dark Dagger",
       "url":"http://warframe.wikia.com/wiki/Dark_Dagger",
       "mr":0,
@@ -475,7 +475,7 @@
       "location":""
    },
    {
-      "regex":"dark\\sdagger,\\srakta",
+      "regex":"^dark\\sdagger,\\srakta$",
       "name":"Dark Dagger, Rakta",
       "url":"http://warframe.wikia.com/wiki/Rakta_Dark_Dagger",
       "mr":8,
@@ -500,7 +500,7 @@
       "location":""
    },
    {
-      "regex":"dark\\ssplit-sword\\s(dual)",
+      "regex":"^dark\\ssplit-sword\\s(dual)$",
       "name":"Dark Split-Sword (Dual)",
       "url":"http://warframe.wikia.com/wiki/Dark_Split-Sword_(Dual_Swords)",
       "mr":5,
@@ -525,7 +525,7 @@
       "location":""
    },
    {
-      "regex":"dark\\ssplit-sword\\s(heavy)",
+      "regex":"^dark\\ssplit-sword\\s(heavy)$",
       "name":"Dark Split-Sword (Heavy)",
       "url":"http://warframe.wikia.com/wiki/Dark_Split-Sword_(Heavy_Blade)",
       "mr":5,
@@ -550,7 +550,7 @@
       "location":""
    },
    {
-      "regex":"dark\\ssword",
+      "regex":"^dark\\ssword$",
       "name":"Dark Sword",
       "url":"http://warframe.wikia.com/wiki/Dark_Sword",
       "mr":0,
@@ -575,7 +575,7 @@
       "location":""
    },
    {
-      "regex":"destreza",
+      "regex":"^destreza$",
       "name":"Destreza",
       "url":"http://warframe.wikia.com/wiki/Destreza",
       "mr":7,
@@ -600,7 +600,7 @@
       "location":""
    },
    {
-      "regex":"dex\\sdakra",
+      "regex":"^dex\\sdakra$",
       "name":"Dex Dakra",
       "url":"http://warframe.wikia.com/wiki/Dex_Dakra",
       "mr":0,
@@ -625,7 +625,7 @@
       "location":""
    },
    {
-      "regex":"dual\\scleavers",
+      "regex":"^dual\\scleavers$",
       "name":"Dual Cleavers",
       "url":"http://warframe.wikia.com/wiki/Dual_Cleavers",
       "mr":3,
@@ -650,7 +650,7 @@
       "location":""
    },
    {
-      "regex":"dual\\scleavers,\\sprisma",
+      "regex":"^dual\\scleavers,\\sprisma$",
       "name":"Dual Cleavers, Prisma",
       "url":"http://warframe.wikia.com/wiki/Prisma_Dual_Cleavers",
       "mr":3,
@@ -675,7 +675,7 @@
       "location":""
    },
    {
-      "regex":"dual\\sether",
+      "regex":"^dual\\sether$",
       "name":"Dual Ether",
       "url":"http://warframe.wikia.com/wiki/Dual_Ether",
       "mr":0,
@@ -700,7 +700,7 @@
       "location":""
    },
    {
-      "regex":"dual\\sheat\\sswords",
+      "regex":"^dual\\sheat\\sswords$",
       "name":"Dual Heat Swords",
       "url":"http://warframe.wikia.com/wiki/Dual_Heat_Swords",
       "mr":0,
@@ -725,7 +725,7 @@
       "location":""
    },
    {
-      "regex":"dual\\sichor",
+      "regex":"^dual\\sichor$",
       "name":"Dual Ichor",
       "url":"http://warframe.wikia.com/wiki/Dual_Ichor",
       "mr":6,
@@ -750,7 +750,7 @@
       "location":""
    },
    {
-      "regex":"dual\\skamas",
+      "regex":"^dual\\skamas$",
       "name":"Dual Kamas",
       "url":"http://warframe.wikia.com/wiki/Dual_Kamas",
       "mr":0,
@@ -775,7 +775,7 @@
       "location":""
    },
    {
-      "regex":"dual\\skamas\\sprime",
+      "regex":"^dual\\skamas\\sprime$",
       "name":"Dual Kamas Prime",
       "url":"http://warframe.wikia.com/wiki/Dual_Kamas_Prime",
       "mr":0,
@@ -800,7 +800,7 @@
       "location":""
    },
    {
-      "regex":"dual\\sraza",
+      "regex":"^dual\\sraza$",
       "name":"Dual Raza",
       "url":"http://warframe.wikia.com/wiki/Dual_Raza",
       "mr":6,
@@ -825,7 +825,7 @@
       "location":""
    },
    {
-      "regex":"dual\\sskana",
+      "regex":"^dual\\sskana$",
       "name":"Dual Skana",
       "url":"http://warframe.wikia.com/wiki/Dual_Skana",
       "mr":0,
@@ -850,7 +850,7 @@
       "location":""
    },
    {
-      "regex":"dual\\szoren",
+      "regex":"^dual\\szoren$",
       "name":"Dual Zoren",
       "url":"http://warframe.wikia.com/wiki/Dual_Zoren",
       "mr":2,
@@ -875,7 +875,7 @@
       "location":""
    },
    {
-      "regex":"endura",
+      "regex":"^endura$",
       "name":"Endura",
       "url":"http://warframe.wikia.com/wiki/Endura",
       "mr":7,
@@ -900,7 +900,7 @@
       "location":""
    },
    {
-      "regex":"ether\\sdaggers",
+      "regex":"^ether\\sdaggers$",
       "name":"Ether Daggers",
       "url":"http://warframe.wikia.com/wiki/Ether_Daggers",
       "mr":0,
@@ -925,7 +925,7 @@
       "location":""
    },
    {
-      "regex":"ether\\sreaper",
+      "regex":"^ether\\sreaper$",
       "name":"Ether Reaper",
       "url":"http://warframe.wikia.com/wiki/Ether_Reaper",
       "mr":3,
@@ -950,7 +950,7 @@
       "location":""
    },
    {
-      "regex":"ether\\ssword",
+      "regex":"^ether\\ssword$",
       "name":"Ether Sword",
       "url":"http://warframe.wikia.com/wiki/Ether_Sword",
       "mr":0,
@@ -975,7 +975,7 @@
       "location":""
    },
    {
-      "regex":"fang",
+      "regex":"^fang$",
       "name":"Fang",
       "url":"http://warframe.wikia.com/wiki/Fang",
       "mr":0,
@@ -1000,7 +1000,7 @@
       "location":""
    },
    {
-      "regex":"fang\\sprime",
+      "regex":"^fang\\sprime$",
       "name":"Fang Prime",
       "url":"http://warframe.wikia.com/wiki/Fang_Prime",
       "mr":0,
@@ -1025,7 +1025,7 @@
       "location":""
    },
    {
-      "regex":"fragor",
+      "regex":"^fragor$",
       "name":"Fragor",
       "url":"http://warframe.wikia.com/wiki/Fragor",
       "mr":2,
@@ -1050,7 +1050,7 @@
       "location":""
    },
    {
-      "regex":"fragor\\sprime",
+      "regex":"^fragor\\sprime$",
       "name":"Fragor Prime",
       "url":"http://warframe.wikia.com/wiki/Fragor_Prime",
       "mr":7,
@@ -1075,7 +1075,7 @@
       "location":""
    },
    {
-      "regex":"furax",
+      "regex":"^furax$",
       "name":"Furax",
       "url":"http://warframe.wikia.com/wiki/Furax",
       "mr":0,
@@ -1100,7 +1100,7 @@
       "location":""
    },
    {
-      "regex":"furax,\\smk1",
+      "regex":"^furax,\\smk1$",
       "name":"Furax, Mk1",
       "url":"http://warframe.wikia.com/wiki/MK1-Furax",
       "mr":0,
@@ -1125,7 +1125,7 @@
       "location":""
    },
    {
-      "regex":"furax\\swraith",
+      "regex":"^furax\\swraith$",
       "name":"Furax Wraith",
       "url":"http://warframe.wikia.com/wiki/Furax_Wraith",
       "mr":0,
@@ -1150,7 +1150,7 @@
       "location":""
    },
    {
-      "regex":"galatine",
+      "regex":"^galatine$",
       "name":"Galatine",
       "url":"http://warframe.wikia.com/wiki/Galatine",
       "mr":3,
@@ -1175,7 +1175,7 @@
       "location":""
    },
    {
-      "regex":"galatine\\sprime",
+      "regex":"^galatine\\sprime$",
       "name":"Galatine Prime",
       "url":"http://warframe.wikia.com/wiki/Galatine_Prime",
       "mr":13,
@@ -1200,7 +1200,7 @@
       "location":""
    },
    {
-      "regex":"gazal\\smachete",
+      "regex":"^gazal\\smachete$",
       "name":"Gazal Machete",
       "url":"http://warframe.wikia.com/wiki/Gazal_Machete",
       "mr":5,
@@ -1225,7 +1225,7 @@
       "location":""
    },
    {
-      "regex":"glaive",
+      "regex":"^glaive$",
       "name":"Glaive",
       "url":"http://warframe.wikia.com/wiki/Glaive",
       "mr":1,
@@ -1250,7 +1250,7 @@
       "location":""
    },
    {
-      "regex":"glaive\\sprime",
+      "regex":"^glaive\\sprime$",
       "name":"Glaive Prime",
       "url":"http://warframe.wikia.com/wiki/Glaive_Prime",
       "mr":10,
@@ -1275,7 +1275,7 @@
       "location":""
    },
    {
-      "regex":"gram",
+      "regex":"^gram$",
       "name":"Gram",
       "url":"http://warframe.wikia.com/wiki/Gram",
       "mr":2,
@@ -1300,7 +1300,7 @@
       "location":""
    },
    {
-      "regex":"guandao",
+      "regex":"^guandao$",
       "name":"Guandao",
       "url":"http://warframe.wikia.com/wiki/Guandao",
       "mr":4,
@@ -1325,7 +1325,7 @@
       "location":""
    },
    {
-      "regex":"halikar",
+      "regex":"^halikar$",
       "name":"Halikar",
       "url":"http://warframe.wikia.com/wiki/Halikar",
       "mr":7,
@@ -1350,7 +1350,7 @@
       "location":""
    },
    {
-      "regex":"hate",
+      "regex":"^hate$",
       "name":"Hate",
       "url":"http://warframe.wikia.com/wiki/Hate",
       "mr":2,
@@ -1375,7 +1375,7 @@
       "location":""
    },
    {
-      "regex":"heat\\sdagger",
+      "regex":"^heat\\sdagger$",
       "name":"Heat Dagger",
       "url":"http://warframe.wikia.com/wiki/Heat_Daggerhttps://discord.gg/KmG89x2",
       "mr":0,
@@ -1400,7 +1400,7 @@
       "location":""
    },
    {
-      "regex":"heat\\ssword",
+      "regex":"^heat\\ssword$",
       "name":"Heat Sword",
       "url":"http://warframe.wikia.com/wiki/Heat_Sword",
       "mr":0,
@@ -1425,7 +1425,7 @@
       "location":""
    },
    {
-      "regex":"heliocor",
+      "regex":"^heliocor$",
       "name":"Heliocor",
       "url":"http://warframe.wikia.com/wiki/Heliocor",
       "mr":9,
@@ -1450,7 +1450,7 @@
       "location":"Simaris"
    },
    {
-      "regex":"heliocor,\\ssynoid",
+      "regex":"^heliocor,\\ssynoid$",
       "name":"Heliocor, Synoid",
       "url":"http://warframe.wikia.com/wiki/Synoid_Heliocor",
       "mr":8,
@@ -1475,7 +1475,7 @@
       "location":""
    },
    {
-      "regex":"hirudo",
+      "regex":"^hirudo$",
       "name":"Hirudo",
       "url":"http://warframe.wikia.com/wiki/Hirudo",
       "mr":null,
@@ -1500,7 +1500,7 @@
       "location":""
    },
    {
-      "regex":"jat\\skittag",
+      "regex":"^jat\\skittag$",
       "name":"Jat Kittag",
       "url":"http://warframe.wikia.com/wiki/Jat_Kittag",
       "mr":5,
@@ -1525,7 +1525,7 @@
       "location":""
    },
    {
-      "regex":"jaw\\ssword",
+      "regex":"^jaw\\ssword$",
       "name":"Jaw Sword",
       "url":"http://warframe.wikia.com/wiki/Jaw_Sword",
       "mr":0,
@@ -1550,7 +1550,7 @@
       "location":""
    },
    {
-      "regex":"kama",
+      "regex":"^kama$",
       "name":"Kama",
       "url":"http://warframe.wikia.com/wiki/Kama",
       "mr":0,
@@ -1575,7 +1575,7 @@
       "location":""
    },
    {
-      "regex":"karyst",
+      "regex":"^karyst$",
       "name":"Karyst",
       "url":"http://warframe.wikia.com/wiki/Karyst",
       "mr":0,
@@ -1600,7 +1600,7 @@
       "location":""
    },
    {
-      "regex":"kesheg",
+      "regex":"^kesheg$",
       "name":"Kesheg",
       "url":"http://warframe.wikia.com/wiki/Kesheg",
       "mr":7,
@@ -1625,7 +1625,7 @@
       "location":""
    },
    {
-      "regex":"kestrel",
+      "regex":"^kestrel$",
       "name":"Kestrel",
       "url":"http://warframe.wikia.com/wiki/Kestrel",
       "mr":0,
@@ -1650,7 +1650,7 @@
       "location":""
    },
    {
-      "regex":"kogake",
+      "regex":"^kogake$",
       "name":"Kogake",
       "url":"http://warframe.wikia.com/wiki/Kogake",
       "mr":0,
@@ -1675,7 +1675,7 @@
       "location":""
    },
    {
-      "regex":"kronen",
+      "regex":"^kronen$",
       "name":"Kronen",
       "url":"http://warframe.wikia.com/wiki/Kronen",
       "mr":3,
@@ -1700,7 +1700,7 @@
       "location":""
    },
    {
-      "regex":"lacera",
+      "regex":"^lacera$",
       "name":"Lacera",
       "url":"http://warframe.wikia.com/wiki/Lacera",
       "mr":7,
@@ -1725,7 +1725,7 @@
       "location":""
    },
    {
-      "regex":"lecta",
+      "regex":"^lecta$",
       "name":"Lecta",
       "url":"http://warframe.wikia.com/wiki/Lecta",
       "mr":0,
@@ -1750,7 +1750,7 @@
       "location":""
    },
    {
-      "regex":"lecta,\\ssecura",
+      "regex":"^lecta,\\ssecura$",
       "name":"Lecta, Secura",
       "url":"http://warframe.wikia.com/wiki/Secura_Lecta",
       "mr":8,
@@ -1775,7 +1775,7 @@
       "location":""
    },
    {
-      "regex":"lesion",
+      "regex":"^lesion$",
       "name":"Lesion",
       "url":"http://warframe.wikia.com/wiki/Lesion",
       "mr":7,
@@ -1800,7 +1800,7 @@
       "location":""
    },
    {
-      "regex":"machete",
+      "regex":"^machete$",
       "name":"Machete",
       "url":"http://warframe.wikia.com/wiki/Machete",
       "mr":1,
@@ -1825,7 +1825,7 @@
       "location":""
    },
    {
-      "regex":"machete\\swraith",
+      "regex":"^machete\\swraith$",
       "name":"Machete Wraith",
       "url":"http://warframe.wikia.com/wiki/Machete_Wraith",
       "mr":1,
@@ -1850,7 +1850,7 @@
       "location":""
    },
    {
-      "regex":"magistar",
+      "regex":"^magistar$",
       "name":"Magistar",
       "url":"http://warframe.wikia.com/wiki/Magistar",
       "mr":1,
@@ -1875,7 +1875,7 @@
       "location":""
    },
    {
-      "regex":"magistar,\\ssancti",
+      "regex":"^magistar,\\ssancti$",
       "name":"Magistar, Sancti",
       "url":"http://warframe.wikia.com/wiki/Sancti_Magistar",
       "mr":8,
@@ -1900,7 +1900,7 @@
       "location":""
    },
    {
-      "regex":"mios",
+      "regex":"^mios$",
       "name":"Mios",
       "url":"http://warframe.wikia.com/wiki/Mios",
       "mr":8,
@@ -1925,7 +1925,7 @@
       "location":""
    },
    {
-      "regex":"mire",
+      "regex":"^mire$",
       "name":"Mire",
       "url":"http://warframe.wikia.com/wiki/Mire",
       "mr":0,
@@ -1950,7 +1950,7 @@
       "location":""
    },
    {
-      "regex":"nami\\sskyla",
+      "regex":"^nami\\sskyla$",
       "name":"Nami Skyla",
       "url":"http://warframe.wikia.com/wiki/Nami_Skyla",
       "mr":0,
@@ -1975,7 +1975,7 @@
       "location":""
    },
    {
-      "regex":"nami\\ssolo",
+      "regex":"^nami\\ssolo$",
       "name":"Nami Solo",
       "url":"http://warframe.wikia.com/wiki/Nami_Solo",
       "mr":0,
@@ -2000,7 +2000,7 @@
       "location":""
    },
    {
-      "regex":"nikana",
+      "regex":"^nikana$",
       "name":"Nikana",
       "url":"http://warframe.wikia.com/wiki/Nikana",
       "mr":4,
@@ -2025,7 +2025,7 @@
       "location":""
    },
    {
-      "regex":"nikana,\\sdragon",
+      "regex":"^nikana,\\sdragon$",
       "name":"Nikana, Dragon",
       "url":"http://warframe.wikia.com/wiki/Dragon_Nikana",
       "mr":8,
@@ -2050,7 +2050,7 @@
       "location":""
    },
    {
-      "regex":"nikana\\sprime",
+      "regex":"^nikana\\sprime$",
       "name":"Nikana Prime",
       "url":"http://warframe.wikia.com/wiki/Nikana_Prime",
       "mr":0,
@@ -2075,7 +2075,7 @@
       "location":""
    },
    {
-      "regex":"ninkondi",
+      "regex":"^ninkondi$",
       "name":"Ninkondi",
       "url":"http://warframe.wikia.com/wiki/Ninkondi",
       "mr":0,
@@ -2100,7 +2100,7 @@
       "location":""
    },
    {
-      "regex":"obex",
+      "regex":"^obex$",
       "name":"Obex",
       "url":"http://warframe.wikia.com/wiki/Obex",
       "mr":0,
@@ -2125,7 +2125,7 @@
       "location":""
    },
    {
-      "regex":"obex,\\sprisma",
+      "regex":"^obex,\\sprisma$",
       "name":"Obex, Prisma",
       "url":"http://warframe.wikia.com/wiki/Prisma_Obex",
       "mr":0,
@@ -2150,7 +2150,7 @@
       "location":""
    },
    {
-      "regex":"ohma",
+      "regex":"^ohma$",
       "name":"Ohma",
       "url":"http://warframe.wikia.com/wiki/Ohma",
       "mr":8,
@@ -2175,7 +2175,7 @@
       "location":""
    },
    {
-      "regex":"okina",
+      "regex":"^okina$",
       "name":"Okina",
       "url":"http://warframe.wikia.com/wiki/Okina",
       "mr":5,
@@ -2200,7 +2200,7 @@
       "location":""
    },
    {
-      "regex":"orthos",
+      "regex":"^orthos$",
       "name":"Orthos",
       "url":"http://warframe.wikia.com/wiki/Orthos",
       "mr":2,
@@ -2225,7 +2225,7 @@
       "location":""
    },
    {
-      "regex":"orthos\\sprime",
+      "regex":"^orthos\\sprime$",
       "name":"Orthos Prime",
       "url":"http://warframe.wikia.com/wiki/Orthos_Prime",
       "mr":2,
@@ -2250,7 +2250,7 @@
       "location":""
    },
    {
-      "regex":"orvius",
+      "regex":"^orvius$",
       "name":"Orvius",
       "url":"http://warframe.wikia.com/wiki/Orvius",
       "mr":6,
@@ -2275,7 +2275,7 @@
       "location":""
    },
    {
-      "regex":"pangolin\\ssword",
+      "regex":"^pangolin\\ssword$",
       "name":"Pangolin Sword",
       "url":"http://warframe.wikia.com/wiki/Pangolin_Sword",
       "mr":2,
@@ -2300,7 +2300,7 @@
       "location":""
    },
    {
-      "regex":"plasma\\ssword",
+      "regex":"^plasma\\ssword$",
       "name":"Plasma Sword",
       "url":"http://warframe.wikia.com/wiki/Plasma_Sword",
       "mr":0,
@@ -2325,7 +2325,7 @@
       "location":""
    },
    {
-      "regex":"prova",
+      "regex":"^prova$",
       "name":"Prova",
       "url":"http://warframe.wikia.com/wiki/Prova",
       "mr":3,
@@ -2350,7 +2350,7 @@
       "location":""
    },
    {
-      "regex":"prova\\svandal",
+      "regex":"^prova\\svandal$",
       "name":"Prova Vandal",
       "url":"http://warframe.wikia.com/wiki/Prova_Vandal",
       "mr":0,
@@ -2375,7 +2375,7 @@
       "location":""
    },
    {
-      "regex":"reaper\\sprime",
+      "regex":"^reaper\\sprime$",
       "name":"Reaper Prime",
       "url":"http://warframe.wikia.com/wiki/Reaper_Prime",
       "mr":2,
@@ -2400,7 +2400,7 @@
       "location":""
    },
    {
-      "regex":"redeemer",
+      "regex":"^redeemer$",
       "name":"Redeemer",
       "url":"http://warframe.wikia.com/wiki/Redeemer",
       "mr":4,
@@ -2425,7 +2425,7 @@
       "location":""
    },
    {
-      "regex":"ripkas",
+      "regex":"^ripkas$",
       "name":"Ripkas",
       "url":"http://warframe.wikia.com/wiki/Ripkas",
       "mr":3,
@@ -2450,7 +2450,7 @@
       "location":""
    },
    {
-      "regex":"sarpa",
+      "regex":"^sarpa$",
       "name":"Sarpa",
       "url":"http://warframe.wikia.com/wiki/Sarpa",
       "mr":null,
@@ -2475,7 +2475,7 @@
       "location":""
    },
    {
-      "regex":"scindo",
+      "regex":"^scindo$",
       "name":"Scindo",
       "url":"http://warframe.wikia.com/wiki/Scindo",
       "mr":2,
@@ -2500,7 +2500,7 @@
       "location":""
    },
    {
-      "regex":"scindo\\sprime",
+      "regex":"^scindo\\sprime$",
       "name":"Scindo Prime",
       "url":"http://warframe.wikia.com/wiki/Scindo_Prime",
       "mr":4,
@@ -2525,7 +2525,7 @@
       "location":""
    },
    {
-      "regex":"scoliac",
+      "regex":"^scoliac$",
       "name":"Scoliac",
       "url":"http://warframe.wikia.com/wiki/Scoliac",
       "mr":6,
@@ -2550,7 +2550,7 @@
       "location":""
    },
    {
-      "regex":"serro",
+      "regex":"^serro$",
       "name":"Serro",
       "url":"http://warframe.wikia.com/wiki/Serro",
       "mr":2,
@@ -2575,7 +2575,7 @@
       "location":""
    },
    {
-      "regex":"shaku",
+      "regex":"^shaku$",
       "name":"Shaku",
       "url":"http://warframe.wikia.com/wiki/Shaku",
       "mr":0,
@@ -2600,7 +2600,7 @@
       "location":""
    },
    {
-      "regex":"sheev",
+      "regex":"^sheev$",
       "name":"Sheev",
       "url":"http://warframe.wikia.com/wiki/Sheev",
       "mr":0,
@@ -2625,7 +2625,7 @@
       "location":""
    },
    {
-      "regex":"sibear",
+      "regex":"^sibear$",
       "name":"Sibear",
       "url":"http://warframe.wikia.com/wiki/Sibear",
       "mr":6,
@@ -2650,7 +2650,7 @@
       "location":""
    },
    {
-      "regex":"silva\\s&\\saegis",
+      "regex":"^silva\\s&\\saegis$",
       "name":"Silva & Aegis",
       "url":"http://warframe.wikia.com/wiki/Silva_%26_Aegis",
       "mr":0,
@@ -2675,7 +2675,7 @@
       "location":""
    },
    {
-      "regex":"silva\\s&\\saegis\\sprime",
+      "regex":"^silva\\s&\\saegis\\sprime$",
       "name":"Silva & Aegis Prime",
       "url":"http://warframe.wikia.com/wiki/Silva_%26_Aegis_Prime",
       "mr":12,
@@ -2700,7 +2700,7 @@
       "location":""
    },
    {
-      "regex":"skana",
+      "regex":"^skana$",
       "name":"Skana",
       "url":"http://warframe.wikia.com/wiki/Skana",
       "mr":0,
@@ -2725,7 +2725,7 @@
       "location":""
    },
    {
-      "regex":"skana\\sprime",
+      "regex":"^skana\\sprime$",
       "name":"Skana Prime",
       "url":"http://warframe.wikia.com/wiki/Skana_Prime",
       "mr":0,
@@ -2750,7 +2750,7 @@
       "location":""
    },
    {
-      "regex":"skana,\\sprisma",
+      "regex":"^skana,\\sprisma$",
       "name":"Skana, Prisma",
       "url":"http://warframe.wikia.com/wiki/Prisma_Skana",
       "mr":0,
@@ -2775,7 +2775,7 @@
       "location":""
    },
    {
-      "regex":"sydon",
+      "regex":"^sydon$",
       "name":"Sydon",
       "url":"http://warframe.wikia.com/wiki/Sydon",
       "mr":2,
@@ -2800,7 +2800,7 @@
       "location":""
    },
    {
-      "regex":"sydon,\\svaykor",
+      "regex":"^sydon,\\svaykor$",
       "name":"Sydon, Vaykor",
       "url":"http://warframe.wikia.com/wiki/Vaykor_Sydon",
       "mr":8,
@@ -2825,7 +2825,7 @@
       "location":""
    },
    {
-      "regex":"tekko",
+      "regex":"^tekko$",
       "name":"Tekko",
       "url":"http://warframe.wikia.com/wiki/Tekko",
       "mr":2,
@@ -2850,7 +2850,7 @@
       "location":""
    },
    {
-      "regex":"tipedo",
+      "regex":"^tipedo$",
       "name":"Tipedo",
       "url":"http://warframe.wikia.com/wiki/Tipedo",
       "mr":3,
@@ -2875,7 +2875,7 @@
       "location":""
    },
    {
-      "regex":"tonbo",
+      "regex":"^tonbo$",
       "name":"Tonbo",
       "url":"http://warframe.wikia.com/wiki/Tonbo",
       "mr":3,
@@ -2900,7 +2900,7 @@
       "location":""
    },
    {
-      "regex":"twin\\sbasolk",
+      "regex":"^twin\\sbasolk$",
       "name":"Twin Basolk",
       "url":"http://warframe.wikia.com/wiki/Twin_Basolk",
       "mr":3,
@@ -2925,7 +2925,7 @@
       "location":""
    },
    {
-      "regex":"venka",
+      "regex":"^venka$",
       "name":"Venka",
       "url":"http://warframe.wikia.com/wiki/Venka",
       "mr":3,
@@ -2950,7 +2950,7 @@
       "location":""
    },
    {
-      "regex":"venka\\sprime",
+      "regex":"^venka\\sprime$",
       "name":"Venka Prime",
       "url":"http://warframe.wikia.com/wiki/Venka_Prime",
       "mr":8,
@@ -2975,7 +2975,7 @@
       "location":""
    },
    {
-      "regex":"war",
+      "regex":"^war$",
       "name":"War",
       "url":"http://warframe.wikia.com/wiki/War",
       "mr":10,
@@ -3000,7 +3000,7 @@
       "location":""
    },
    {
-      "regex":"zenistar",
+      "regex":"^zenistar$",
       "name":"Zenistar",
       "url":"http://warframe.wikia.com/wiki/Zenistar",
       "mr":0,

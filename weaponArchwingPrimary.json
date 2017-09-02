@@ -1,6 +1,6 @@
 [
    {
-      "regex":"corvas",
+      "regex":"^corvas$",
       "name":"Corvas",
       "url":"",
       "mr":0,
@@ -27,7 +27,7 @@
       "location":""
    },
    {
-      "regex":"cyngas",
+      "regex":"^cyngas$",
       "name":"Cyngas",
       "url":"",
       "mr":4,
@@ -54,7 +54,7 @@
       "location":""
    },
    {
-      "regex":"dual\\sdecurion",
+      "regex":"^dual\\sdecurion$",
       "name":"Dual Decurion",
       "url":"",
       "mr":0,
@@ -81,7 +81,7 @@
       "location":""
    },
    {
-      "regex":"fluctus",
+      "regex":"^fluctus$",
       "name":"Fluctus",
       "url":"",
       "mr":0,
@@ -108,7 +108,7 @@
       "location":""
    },
    {
-      "regex":"grattler",
+      "regex":"^grattler$",
       "name":"Grattler",
       "url":"",
       "mr":0,
@@ -135,7 +135,7 @@
       "location":""
    },
    {
-      "regex":"imperator",
+      "regex":"^imperator$",
       "name":"Imperator",
       "url":"",
       "mr":0,
@@ -162,7 +162,7 @@
       "location":""
    },
    {
-      "regex":"imperator\\svandal",
+      "regex":"^imperator\\svandal$",
       "name":"Imperator Vandal",
       "url":"",
       "mr":0,
@@ -189,7 +189,7 @@
       "location":""
    },
    {
-      "regex":"phaedra",
+      "regex":"^phaedra$",
       "name":"Phaedra",
       "url":"",
       "mr":0,
@@ -216,7 +216,7 @@
       "location":""
    },
    {
-      "regex":"velocitus",
+      "regex":"^velocitus$",
       "name":"Velocitus",
       "url":"",
       "mr":0,

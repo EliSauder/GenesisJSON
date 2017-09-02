@@ -1,6 +1,6 @@
 [
    {
-      "regex":"artax",
+      "regex":"^artax$",
       "name":"Artax",
       "url":"",
       "mr":0,
@@ -28,7 +28,7 @@
       "location":""
    },
    {
-      "regex":"burst\\slaser",
+      "regex":"^burst\\slaser$",
       "name":"Burst Laser",
       "url":"",
       "mr":0,
@@ -56,7 +56,7 @@
       "location":""
    },
    {
-      "regex":"burst\\slaser,\\sprisma",
+      "regex":"^burst\\slaser,\\sprisma$",
       "name":"Burst Laser, Prisma",
       "url":"",
       "mr":0,
@@ -84,7 +84,7 @@
       "location":""
    },
    {
-      "regex":"deconstructor",
+      "regex":"^deconstructor$",
       "name":"Deconstructor",
       "url":"",
       "mr":0,
@@ -112,7 +112,7 @@
       "location":""
    },
    {
-      "regex":"deconstructor\\sprime",
+      "regex":"^deconstructor\\sprime$",
       "name":"Deconstructor Prime",
       "url":"",
       "mr":8,
@@ -140,7 +140,7 @@
       "location":""
    },
    {
-      "regex":"deth\\smachine\\srifle",
+      "regex":"^deth\\smachine\\srifle$",
       "name":"Deth Machine Rifle",
       "url":"",
       "mr":0,
@@ -168,7 +168,7 @@
       "location":""
    },
    {
-      "regex":"laser\\srifle",
+      "regex":"^laser\\srifle$",
       "name":"Laser Rifle",
       "url":"",
       "mr":0,
@@ -196,7 +196,7 @@
       "location":""
    },
    {
-      "regex":"laser\\srifle,\\sprime",
+      "regex":"^laser\\srifle,\\sprime$",
       "name":"Laser Rifle, Prime",
       "url":"",
       "mr":0,
@@ -224,7 +224,7 @@
       "location":""
    },
    {
-      "regex":"stinger",
+      "regex":"^stinger$",
       "name":"Stinger",
       "url":"",
       "mr":0,
@@ -252,7 +252,7 @@
       "location":""
    },
    {
-      "regex":"sweeper",
+      "regex":"^sweeper$",
       "name":"Sweeper",
       "url":"",
       "mr":0,
@@ -280,7 +280,7 @@
       "location":""
    },
    {
-      "regex":"sweeper\\sprime",
+      "regex":"^sweeper\\sprime$",
       "name":"Sweeper Prime",
       "url":"",
       "mr":0,
@@ -308,7 +308,7 @@
       "location":""
    },
    {
-      "regex":"vulklok",
+      "regex":"^vulklok$",
       "name":"Vulklok",
       "url":"",
       "mr":0,

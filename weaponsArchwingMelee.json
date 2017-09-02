@@ -1,6 +1,6 @@
 [
    {
-      "regex":"agkuza",
+      "regex":"^agkuza$",
       "name":"Agkuza",
       "url":"",
       "mr":0,
@@ -21,7 +21,7 @@
       "location":""
    },
    {
-      "regex":"centaur",
+      "regex":"^centaur$",
       "name":"Centaur",
       "url":"",
       "mr":0,
@@ -42,7 +42,7 @@
       "location":""
    },
    {
-      "regex":"kaszas",
+      "regex":"^kaszas$",
       "name":"Kaszas",
       "url":"",
       "mr":0,
@@ -63,7 +63,7 @@
       "location":""
    },
    {
-      "regex":"knux",
+      "regex":"^knux$",
       "name":"Knux",
       "url":"",
       "mr":0,
@@ -84,7 +84,7 @@
       "location":""
    },
    {
-      "regex":"onorix",
+      "regex":"^onorix$",
       "name":"Onorix",
       "url":"",
       "mr":0,
@@ -105,7 +105,7 @@
       "location":""
    },
    {
-      "regex":"rathbone",
+      "regex":"^rathbone$",
       "name":"Rathbone",
       "url":"",
       "mr":0,
@@ -126,7 +126,7 @@
       "location":""
    },
    {
-      "regex":"veritux",
+      "regex":"^veritux$",
       "name":"Veritux",
       "url":"",
       "mr":0,
@@ -147,7 +147,7 @@
       "location":""
    },
    {
-      "regex":"veritux,\\sprisma",
+      "regex":"^veritux,\\sprisma$",
       "name":"Veritux, Prisma",
       "url":"",
       "mr":0,
