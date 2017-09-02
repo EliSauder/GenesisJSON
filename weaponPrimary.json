@@ -1,6 +1,6 @@
 [
    {
-      "regex":"amprex",
+      "regex":"^amprex$",
       "name":"Amprex",
       "url":"http://warframe.wikia.com/wiki/Amprex",
       "mr":5,
@@ -28,7 +28,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"attica",
+      "regex":"^attica$",
       "name":"Attica",
       "url":"http://warframe.wikia.com/wiki/Attica",
       "mr":0,
@@ -56,7 +56,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"boar",
+      "regex":"^boar$",
       "name":"Boar",
       "url":"http://warframe.wikia.com/wiki/Boar",
       "mr":2,
@@ -84,7 +84,7 @@
       "location":"Enemy"
    },
    {
-      "regex":"boar\\sprime",
+      "regex":"^boar\\sprime$",
       "name":"Boar Prime",
       "url":"http://warframe.wikia.com/wiki/Boar_Prime",
       "mr":2,
@@ -112,7 +112,7 @@
       "location":"Relics"
    },
    {
-      "regex":"boltor",
+      "regex":"^boltor$",
       "name":"Boltor",
       "url":"http://warframe.wikia.com/wiki/Boltor",
       "mr":2,
@@ -140,7 +140,7 @@
       "location":"Market"
    },
    {
-      "regex":"boltor\\sprime",
+      "regex":"^boltor\\sprime$",
       "name":"Boltor Prime",
       "url":"http://warframe.wikia.com/wiki/Boltor_Prime",
       "mr":2,
@@ -168,7 +168,7 @@
       "location":""
    },
    {
-      "regex":"telos\\sboltor",
+      "regex":"^telos\\sboltor$",
       "name":"Telos Boltor",
       "url":"http://warframe.wikia.com/wiki/Telos_Boltor",
       "mr":12,
@@ -196,7 +196,7 @@
       "location":"Syndicate"
    },
    {
-      "regex":"braton",
+      "regex":"^braton$",
       "name":"Braton",
       "url":"http://warframe.wikia.com/wiki/Braton",
       "mr":0,
@@ -224,7 +224,7 @@
       "location":"Market"
    },
    {
-      "regex":"mk1\\sbraton",
+      "regex":"^mk1\\sbraton$",
       "name":"MK1 Braton",
       "url":"http://warframe.wikia.com/wiki/Braton",
       "mr":0,
@@ -252,7 +252,7 @@
       "location":"Market"
    },
    {
-      "regex":"braton\\sprime",
+      "regex":"^braton\\sprime$",
       "name":"Braton Prime",
       "url":"http://warframe.wikia.com/wiki/Braton_Prime",
       "mr":0,
@@ -280,7 +280,7 @@
       "location":"Relics"
    },
    {
-      "regex":"braton\\svandal",
+      "regex":"^braton\\svandal$",
       "name":"Braton Vandal",
       "url":"http://warframe.wikia.com/wiki/Braton_Vandal",
       "mr":0,
@@ -308,7 +308,7 @@
       "location":"Open Beta Weekend Purchase"
    },
    {
-      "regex":"burston",
+      "regex":"^burston$",
       "name":"Burston",
       "url":"http://warframe.wikia.com/wiki/Burston",
       "mr":0,
@@ -336,7 +336,7 @@
       "location":"Market"
    },
    {
-      "regex":"burston\\sprime",
+      "regex":"^burston\\sprime$",
       "name":"Burston Prime",
       "url":"http://warframe.wikia.com/wiki/Burston_Prime",
       "mr":0,
@@ -364,7 +364,7 @@
       "location":"Relics"
    },
    {
-      "regex":"buzlok",
+      "regex":"^buzlok$",
       "name":"Buzlok",
       "url":"http://warframe.wikia.com/wiki/Buzlok",
       "mr":9,
@@ -392,7 +392,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"cernos",
+      "regex":"^cernos$",
       "name":"Cernos",
       "url":"http://warframe.wikia.com/wiki/Cernos",
       "mr":0,
@@ -420,7 +420,7 @@
       "location":"Market"
    },
    {
-      "regex":"mutalist\\scernos",
+      "regex":"^mutalist\\scernos$",
       "name":"Mutalist Cernos",
       "url":"http://warframe.wikia.com/wiki/Mutalist_Cernos",
       "mr":0,
@@ -448,7 +448,7 @@
       "location":"Market"
    },
    {
-      "regex":"cernos\\sprime",
+      "regex":"^cernos\\sprime$",
       "name":"Cernos Prime",
       "url":"http://warframe.wikia.com/wiki/Cernos_Prime",
       "mr":8,
@@ -476,7 +476,7 @@
       "location":"Relics"
    },
    {
-      "regex":"rakta\\scernos",
+      "regex":"^rakta\\scernos$",
       "name":"Rakta Cernos",
       "url":"http://warframe.wikia.com/wiki/Rakta_Cernos",
       "mr":12,
@@ -504,7 +504,7 @@
       "location":"Syndicate"
    },
    {
-      "regex":"convectrix",
+      "regex":"^convectrix$",
       "name":"Convectrix",
       "url":"http://warframe.wikia.com/wiki/Convectrix",
       "mr":2,
@@ -532,7 +532,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"daikyu",
+      "regex":"^daikyu$",
       "name":"Daikyu",
       "url":"http://warframe.wikia.com/wiki/Daikyu",
       "mr":0,
@@ -560,7 +560,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"dera",
+      "regex":"^dera$",
       "name":"Dera",
       "url":"http://warframe.wikia.com/wiki/Dera",
       "mr":4,
@@ -588,7 +588,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"dera\\svandal",
+      "regex":"^dera\\svandal$",
       "name":"Dera Vandal",
       "url":"http://warframe.wikia.com/wiki/Dera_Vandal",
       "mr":4,
@@ -616,7 +616,7 @@
       "location":"Invasions"
    },
    {
-      "regex":"drakgoon",
+      "regex":"^drakgoon$",
       "name":"Drakgoon",
       "url":"http://warframe.wikia.com/wiki/Drakgoon",
       "mr":3,
@@ -644,7 +644,7 @@
       "location":"Market"
    },
    {
-      "regex":"dread",
+      "regex":"^dread$",
       "name":"Dread",
       "url":"http://warframe.wikia.com/wiki/Dread",
       "mr":0,
@@ -672,7 +672,7 @@
       "location":"Stalker"
    },
    {
-      "regex":"ferrox",
+      "regex":"^ferrox$",
       "name":"Ferrox",
       "url":"",
       "mr":7,
@@ -700,7 +700,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"flux\\srifle",
+      "regex":"^flux\\srifle$",
       "name":"Flux Rifle",
       "url":"http://warframe.wikia.com/wiki/Flux_Rifle",
       "mr":6,
@@ -728,7 +728,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"glaxion",
+      "regex":"^glaxion$",
       "name":"Glaxion",
       "url":"http://warframe.wikia.com/wiki/Glaxion",
       "mr":6,
@@ -756,7 +756,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"gorgon",
+      "regex":"^gorgon$",
       "name":"Gorgon",
       "url":"http://warframe.wikia.com/wiki/Gorgon",
       "mr":3,
@@ -784,7 +784,7 @@
       "location":"Enemy"
    },
    {
-      "regex":"prisma\\sgorgon",
+      "regex":"^prisma\\sgorgon$",
       "name":"Prisma Gorgon",
       "url":"http://warframe.wikia.com/wiki/Prisma_Gorgon",
       "mr":3,
@@ -812,7 +812,7 @@
       "location":"Baro"
    },
    {
-      "regex":"gorgon\\swraith",
+      "regex":"^gorgon\\swraith$",
       "name":"Gorgon Wraith",
       "url":"http://warframe.wikia.com/wiki/Gorgon_Wraith",
       "mr":3,
@@ -840,7 +840,7 @@
       "location":"Razorback Armada"
    },
    {
-      "regex":"grakata",
+      "regex":"^grakata$",
       "name":"Grakata",
       "url":"http://warframe.wikia.com/wiki/Grakata",
       "mr":0,
@@ -868,7 +868,7 @@
       "location":"Market"
    },
    {
-      "regex":"prisma\\sgrakata",
+      "regex":"^prisma\\sgrakata$",
       "name":"Prisma Grakata",
       "url":"http://warframe.wikia.com/wiki/Prisma_Grakata",
       "mr":0,
@@ -896,7 +896,7 @@
       "location":"Baro"
    },
    {
-      "regex":"grinlok",
+      "regex":"^grinlok$",
       "name":"Grinlok",
       "url":"http://warframe.wikia.com/wiki/Grinlok",
       "mr":5,
@@ -924,7 +924,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"harpak",
+      "regex":"^harpak$",
       "name":"Harpak",
       "url":"http://warframe.wikia.com/wiki/Harpak",
       "mr":3,
@@ -952,7 +952,7 @@
       "location":"Market"
    },
    {
-      "regex":"hek",
+      "regex":"^hek$",
       "name":"Hek",
       "url":"http://warframe.wikia.com/wiki/Hek",
       "mr":4,
@@ -980,7 +980,7 @@
       "location":"Market"
    },
    {
-      "regex":"vaykor\\shek",
+      "regex":"^vaykor\\shek$",
       "name":"Vaykor Hek",
       "url":"http://warframe.wikia.com/wiki/Vaykor_Hek",
       "mr":12,
@@ -1008,7 +1008,7 @@
       "location":"Syndicate"
    },
    {
-      "regex":"hema",
+      "regex":"^hema$",
       "name":"Hema",
       "url":"http://warframe.wikia.com/wiki/Hema",
       "mr":7,
@@ -1036,7 +1036,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"hind",
+      "regex":"^hind$",
       "name":"Hind",
       "multiStage":true,
       "url":"http://warframe.wikia.com/wiki/Hind",
@@ -1049,41 +1049,41 @@
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"https://vignette3.wikia.nocookie.net/warframe/images/6/6d/Hind.png/revision/latest/scale-to-width-down/220?cb=20130816203128",
       "location":"Market",
-      "primary": {
-        "trigger":"Burst (5)",
-        "projectile":"Hitscan",
-        "rate":6.25,
-        "flight":"",
-        "noise":"",
-        "accuracy":33.3,
-        "reload":"2.0s",
-        "damage":"30",
-        "impact":"7.5",
-        "puncture":"7.5",
-        "slash":"15.0",
-        "crit_chance":"5%",
-        "crit_mult":"1.5x",
-        "status_chance":"10%"
+      "primary":{
+         "trigger":"Burst (5)",
+         "projectile":"Hitscan",
+         "rate":6.25,
+         "flight":"",
+         "noise":"",
+         "accuracy":33.3,
+         "reload":"2.0s",
+         "damage":"30",
+         "impact":"7.5",
+         "puncture":"7.5",
+         "slash":"15.0",
+         "crit_chance":"5%",
+         "crit_mult":"1.5x",
+         "status_chance":"10%"
       },
-      "secondary": {
-        "trigger":"Semi-Auto",
-        "projectile":"Hitscan",
-        "rate":2.5,
-        "flight":"",
-        "noise":"",
-        "accuracy":28.6,
-        "reload":"2.0s",
-        "damage":"60",
-        "impact":"12",
-        "puncture":"12",
-        "slash":"36",
-        "crit_chance":"10%",
-        "crit_mult":"2x",
-        "status_chance":"20%"
+      "secondary":{
+         "trigger":"Semi-Auto",
+         "projectile":"Hitscan",
+         "rate":2.5,
+         "flight":"",
+         "noise":"",
+         "accuracy":28.6,
+         "reload":"2.0s",
+         "damage":"60",
+         "impact":"12",
+         "puncture":"12",
+         "slash":"36",
+         "crit_chance":"10%",
+         "crit_mult":"2x",
+         "status_chance":"20%"
       }
    },
    {
-      "regex":"ignis",
+      "regex":"^ignis$",
       "name":"Ignis",
       "url":"http://warframe.wikia.com/wiki/Ignis",
       "mr":4,
@@ -1112,7 +1112,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"ignis\\swraith",
+      "regex":"^ignis\\swraith$",
       "name":"Ignis Wraith",
       "url":"http://warframe.wikia.com/wiki/Ignis_Wraith",
       "mr":4,
@@ -1141,7 +1141,7 @@
       "location":"Some Dojos"
    },
    {
-      "regex":"javlok",
+      "regex":"^javlok$",
       "name":"Javlok",
       "url":"http://warframe.wikia.com/wiki/Javlok",
       "mr":6,
@@ -1166,10 +1166,10 @@
       "status_chance":"25%",
       "polarities":"<:madurai:319586146499690496><:madurai:319586146499690496>",
       "thumbnail":"https://vignette3.wikia.nocookie.net/warframe/images/1/1d/GrnFlameSpear.png/revision/latest/scale-to-width-down/220?cb=20161217014834",
-      "location":"Dojo                                                "
+      "location":"Dojo "
    },
    {
-      "regex":"karak",
+      "regex":"^karak$",
       "name":"Karak",
       "url":"http://warframe.wikia.com/wiki/Karak",
       "mr":0,
@@ -1197,7 +1197,7 @@
       "location":"Market"
    },
    {
-      "regex":"karak\\swraith",
+      "regex":"^karak\\swraith$",
       "name":"Karak Wraith",
       "url":"http://warframe.wikia.com/wiki/Karak_Wraith",
       "mr":0,
@@ -1225,7 +1225,7 @@
       "location":"Invasions"
    },
    {
-      "regex":"kohm",
+      "regex":"^kohm$",
       "name":"Kohm",
       "url":"http://warframe.wikia.com/wiki/Kohm",
       "mr":2,
@@ -1253,7 +1253,7 @@
       "location":"Market"
    },
    {
-      "regex":"lanka",
+      "regex":"^lanka$",
       "name":"Lanka",
       "url":"http://warframe.wikia.com/wiki/Lanka",
       "mr":7,
@@ -1282,7 +1282,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"latron",
+      "regex":"^latron$",
       "name":"Latron",
       "url":"http://warframe.wikia.com/wiki/Latron",
       "mr":0,
@@ -1310,7 +1310,7 @@
       "location":"Market"
    },
    {
-      "regex":"latron\\sprime",
+      "regex":"^latron\\sprime$",
       "name":"Latron Prime",
       "url":"http://warframe.wikia.com/wiki/Latron_Prime",
       "mr":0,
@@ -1338,7 +1338,7 @@
       "location":"Relics"
    },
    {
-      "regex":"latron\\swraith",
+      "regex":"^latron\\swraith$",
       "name":"Latron Wraith",
       "url":"http://warframe.wikia.com/wiki/Latron_Wraith",
       "mr":0,
@@ -1366,7 +1366,7 @@
       "location":"Invasions"
    },
    {
-      "regex":"miter",
+      "regex":"^miter$",
       "name":"Miter",
       "url":"http://warframe.wikia.com/wiki/Miter",
       "mr":6,
@@ -1394,7 +1394,7 @@
       "location":"Lech Kril and Captain Vor Assasinate"
    },
    {
-      "regex":"ogris",
+      "regex":"^ogris$",
       "name":"Ogris",
       "url":"http://warframe.wikia.com/wiki/Ogris",
       "mr":8,
@@ -1422,7 +1422,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"opticor",
+      "regex":"^opticor$",
       "name":"Opticor",
       "url":"http://warframe.wikia.com/wiki/Opticor",
       "mr":6,
@@ -1450,7 +1450,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"panthera",
+      "regex":"^panthera$",
       "name":"Panthera",
       "multiStage":true,
       "url":"http://warframe.wikia.com/wiki/Panthera",
@@ -1463,41 +1463,41 @@
       "polarities":"<:naramon:319586146478850048>",
       "thumbnail":"https://vignette.wikia.nocookie.net/warframe/images/6/6f/TennoMiter.png/revision/latest/scale-to-width-down/220?cb=20150115004023",
       "location":"Market",
-      "primary": {
-        "trigger":"Semi-Auto",
-        "projectile":"Projectile",
-        "rate":1.67,
-        "flight":"40 m/s",
-        "noise":"Alarming",
-        "accuracy":100,
-        "reload":"2.0s",
-        "damage":"100",
-        "impact":"20.0",
-        "puncture":"10.0",
-        "slash":"70.0",
-        "crit_chance":"10",
-        "crit_mult":"2.0x",
-        "status_chance":"20%"
+      "primary":{
+         "trigger":"Semi-Auto",
+         "projectile":"Projectile",
+         "rate":1.67,
+         "flight":"40 m/s",
+         "noise":"Alarming",
+         "accuracy":100,
+         "reload":"2.0s",
+         "damage":"100",
+         "impact":"20.0",
+         "puncture":"10.0",
+         "slash":"70.0",
+         "crit_chance":"10",
+         "crit_mult":"2.0x",
+         "status_chance":"20%"
       },
-      "secondary": {
-        "trigger":"Semi-Auto",
-        "projectile":"Projectile",
-        "rate":1.67,
-        "flight":"40 m/s",
-        "noise":"Alarming",
-        "accuracy":100,
-        "reload":"2.0s",
-        "damage":"225",
-        "impact":"20.0",
-        "puncture":"10.0",
-        "slash":"70.0",
-        "crit_chance":"25%",
-        "crit_mult":"2.0x",
-        "status_chance":"35%"
+      "secondary":{
+         "trigger":"Semi-Auto",
+         "projectile":"Projectile",
+         "rate":1.67,
+         "flight":"40 m/s",
+         "noise":"Alarming",
+         "accuracy":100,
+         "reload":"2.0s",
+         "damage":"225",
+         "impact":"20.0",
+         "puncture":"10.0",
+         "slash":"70.0",
+         "crit_chance":"25%",
+         "crit_mult":"2.0x",
+         "status_chance":"35%"
       }
    },
    {
-      "regex":"paracyst",
+      "regex":"^paracyst$",
       "name":"Paracyst",
       "url":"http://warframe.wikia.com/wiki/Paracyst",
       "mr":2,
@@ -1525,7 +1525,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"paris",
+      "regex":"^paris$",
       "name":"Paris",
       "url":"http://warframe.wikia.com/wiki/Paris",
       "mr":0,
@@ -1553,7 +1553,7 @@
       "location":"Market"
    },
    {
-      "regex":"mk1\\sparis",
+      "regex":"^mk1\\sparis$",
       "name":"MK1 Paris",
       "url":"http://warframe.wikia.com/wiki/MK1-Paris",
       "mr":0,
@@ -1581,7 +1581,7 @@
       "location":"Market"
    },
    {
-      "regex":"paris\\sprime",
+      "regex":"^paris\\sprime$",
       "name":"Paris Prime",
       "url":"http://warframe.wikia.com/wiki/Paris_Prime",
       "mr":4,
@@ -1609,7 +1609,7 @@
       "location":"Relics"
    },
    {
-      "regex":"penta",
+      "regex":"^penta$",
       "name":"Penta",
       "url":"http://warframe.wikia.com/wiki/Penta",
       "mr":6,
@@ -1637,7 +1637,7 @@
       "location":"Market"
    },
    {
-      "regex":"secura\\spenta",
+      "regex":"^secura\\spenta$",
       "name":"Secura Penta",
       "url":"http://warframe.wikia.com/wiki/Secura_Penta",
       "mr":12,
@@ -1665,7 +1665,7 @@
       "location":"Syndicate"
    },
    {
-      "regex":"phage",
+      "regex":"^phage$",
       "name":"Phage",
       "url":"http://warframe.wikia.com/wiki/Phage",
       "mr":6,
@@ -1694,7 +1694,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"quanta",
+      "regex":"^quanta$",
       "name":"Quanta",
       "url":"http://warframe.wikia.com/wiki/Quanta",
       "mr":4,
@@ -1723,7 +1723,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"mutalist\\squanta",
+      "regex":"^mutalist\\squanta$",
       "name":"Mutalist Quanta",
       "url":"http://warframe.wikia.com/wiki/Mutalist_Quanta",
       "mr":2,
@@ -1751,7 +1751,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"quanta\\svandal",
+      "regex":"^quanta\\svandal$",
       "name":"Quanta Vandal",
       "url":"http://warframe.wikia.com/wiki/Quanta_Vandal",
       "mr":4,
@@ -1779,7 +1779,7 @@
       "location":"Baro"
    },
    {
-      "regex":"rubico",
+      "regex":"^rubico$",
       "name":"Rubico",
       "url":"http://warframe.wikia.com/wiki/Rubico",
       "mr":5,
@@ -1808,7 +1808,7 @@
       "location":"Market"
    },
    {
-      "regex":"simulor",
+      "regex":"^simulor$",
       "name":"Simulor",
       "url":"http://warframe.wikia.com/wiki/Simulor",
       "mr":5,
@@ -1836,7 +1836,7 @@
       "location":"Simaris"
    },
    {
-      "regex":"synoid\\ssimulor",
+      "regex":"^synoid\\ssimulor$",
       "name":"Synoid Simulor",
       "url":"http://warframe.wikia.com/wiki/Synoid_Simulor",
       "mr":12,
@@ -1864,7 +1864,7 @@
       "location":"Syndicate"
    },
    {
-      "regex":"snipetron",
+      "regex":"^snipetron$",
       "name":"Snipetron",
       "url":"http://warframe.wikia.com/wiki/Snipetron",
       "mr":0,
@@ -1893,7 +1893,7 @@
       "location":"Unobtainable as of Update 8"
    },
    {
-      "regex":"snipetron\\svandal",
+      "regex":"^snipetron\\svandal$",
       "name":"Snipetron Vandal",
       "url":"http://warframe.wikia.com/wiki/Snipetron_Vandal",
       "mr":0,
@@ -1922,7 +1922,7 @@
       "location":"Invasions"
    },
    {
-      "regex":"sobek",
+      "regex":"^sobek$",
       "name":"Sobek",
       "url":"http://warframe.wikia.com/wiki/Sobek",
       "mr":4,
@@ -1950,7 +1950,7 @@
       "location":"Market"
    },
    {
-      "regex":"soma",
+      "regex":"^soma$",
       "name":"Soma",
       "url":"http://warframe.wikia.com/wiki/Soma",
       "mr":6,
@@ -1978,7 +1978,7 @@
       "location":"Market"
    },
    {
-      "regex":"soma\\sprime",
+      "regex":"^soma\\sprime$",
       "name":"Soma Prime",
       "url":"http://warframe.wikia.com/wiki/Soma_Prime",
       "mr":6,
@@ -2006,7 +2006,7 @@
       "location":"Relics"
    },
    {
-      "regex":"stradavar",
+      "regex":"^stradavar$",
       "name":"Stradavar",
       "multiStage":true,
       "url":"http://warframe.wikia.com/wiki/Stradavar",
@@ -2019,41 +2019,41 @@
       "polarities":"<:madurai:319586146499690496><:madurai:319586146499690496>",
       "thumbnail":"https://vignette.wikia.nocookie.net/warframe/images/8/8e/TennoTommyGun.png/revision/latest/scale-to-width-down/220?cb=20160512010246",
       "location":"Market",
-      "primary": {
-        "trigger":"Auto",
-        "projectile":"Hitscan",
-        "rate":10,
-        "flight":"-",
-        "noise":"Alarming",
-        "accuracy":28.6,
-        "reload":"2.0s",
-        "damage":"25",
-        "impact":"8.75",
-        "puncture":"8.75",
-        "slash":"7.5",
-        "crit_chance":"10%",
-        "crit_mult":"2.0x",
-        "status_chance":"5%"
+      "primary":{
+         "trigger":"Auto",
+         "projectile":"Hitscan",
+         "rate":10,
+         "flight":"-",
+         "noise":"Alarming",
+         "accuracy":28.6,
+         "reload":"2.0s",
+         "damage":"25",
+         "impact":"8.75",
+         "puncture":"8.75",
+         "slash":"7.5",
+         "crit_chance":"10%",
+         "crit_mult":"2.0x",
+         "status_chance":"5%"
       },
-      "secondary": {
-        "trigger":"Semi-Auto",
-        "projectile":"Hitscan",
-        "rate":5,
-        "flight":"-",
-        "noise":"Alarming",
-        "accuracy":28.6,
-        "reload":"2.0s",
-        "damage":"50",
-        "impact":"7.5",
-        "puncture":"30.0",
-        "slash":"12.5",
-        "crit_chance":"20%",
-        "crit_mult":"2.0x",
-        "status_chance":"15%"
+      "secondary":{
+         "trigger":"Semi-Auto",
+         "projectile":"Hitscan",
+         "rate":5,
+         "flight":"-",
+         "noise":"Alarming",
+         "accuracy":28.6,
+         "reload":"2.0s",
+         "damage":"50",
+         "impact":"7.5",
+         "puncture":"30.0",
+         "slash":"12.5",
+         "crit_chance":"20%",
+         "crit_mult":"2.0x",
+         "status_chance":"15%"
       }
    },
    {
-      "regex":"strun",
+      "regex":"^strun$",
       "name":"Strun",
       "url":"http://warframe.wikia.com/wiki/Strun",
       "mr":1,
@@ -2081,7 +2081,7 @@
       "location":"Market"
    },
    {
-      "regex":"mk1\\sstrun",
+      "regex":"^mk1\\sstrun$",
       "name":"MK1 Strun",
       "url":"http://warframe.wikia.com/wiki/MK1-Strun",
       "mr":0,
@@ -2109,7 +2109,7 @@
       "location":"Market"
    },
    {
-      "regex":"strun\\swraith",
+      "regex":"^strun\\swraith$",
       "name":"Strun Wraith",
       "url":"http://warframe.wikia.com/wiki/Strun_Wraith",
       "mr":0,
@@ -2137,7 +2137,7 @@
       "location":"Invasions"
    },
    {
-      "regex":"supra",
+      "regex":"^supra$",
       "name":"Supra",
       "url":"http://warframe.wikia.com/wiki/Supra",
       "mr":7,
@@ -2165,7 +2165,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"supra\\svandal",
+      "regex":"^supra\\svandal$",
       "name":"Supra Vandal",
       "url":"http://warframe.wikia.com/wiki/Supra_Vandal",
       "mr":10,
@@ -2193,7 +2193,7 @@
       "location":"Ambulas Reborn event"
    },
    {
-      "regex":"sybaris",
+      "regex":"^sybaris$",
       "name":"Sybaris",
       "url":"http://warframe.wikia.com/wiki/Sybaris",
       "mr":5,
@@ -2221,7 +2221,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"dex sybaris",
+      "regex":"^dex sybaris$",
       "name":"Dex Sybaris",
       "url":"http://warframe.wikia.com/wiki/Dex_Sybaris",
       "mr":0,
@@ -2249,7 +2249,7 @@
       "location":"Anniversary event"
    },
    {
-      "regex":"sybaris\\sprime",
+      "regex":"^sybaris\\sprime$",
       "name":"Sybaris Prime",
       "url":"http://warframe.wikia.com/wiki/Sybaris_Prime",
       "mr":12,
@@ -2277,7 +2277,7 @@
       "location":"Relics"
    },
    {
-      "regex":"synapse",
+      "regex":"^synapse$",
       "name":"Synapse",
       "url":"http://warframe.wikia.com/wiki/Synapse",
       "mr":6,
@@ -2306,54 +2306,54 @@
       "location":"Dojo"
    },
    {
-     "regex":"tenora",
-     "name":"Tenora",
-     "multiStage":true,
-     "url":"http://warframe.wikia.com/wiki/Tenora",
-     "mr":10,
-     "type":"Primary",
-     "subtype":"Rifle",
-     "riven_disposition":"3",
-     "magazine":80,
-     "ammo":"800",
-     "polarities":"None",
-     "thumbnail":"https://vignette1.wikia.nocookie.net/warframe/images/d/d6/TnBardRifle.png/revision/latest/scale-to-width-down/220?cb=20170324230206",
-     "location":"Dojo",
-     "primary": {
-       "trigger":"Auto",
-       "projectile":"Hit-Scan",
-       "rate":11.67,
-       "flight":"",
-       "noise":"Alarming",
-       "accuracy":12.5,
-       "reload":"2.5s",
-       "damage":"23",
-       "impact":"6.9",
-       "puncture":"9.2",
-       "slash":"6.9",
-       "crit_chance":"25%",
-       "crit_mult":"2.0x",
-       "status_chance":"15%"
-     },
-     "secondary": {
-       "trigger":"Charge (0.8s)",
-       "projectile":"Projectile",
-       "rate":10,
-       "flight":"",
-       "noise":"Alarming",
-       "accuracy":12.5,
-       "reload":"2.0s",
-       "damage":"23",
-       "impact":"4.6",
-       "puncture":"13.8",
-       "slash":"4.6",
-       "crit_chance":"33%",
-       "crit_mult":"3.0x",
-       "status_chance":"11%"
-     }
+      "regex":"^tenora$",
+      "name":"Tenora",
+      "multiStage":true,
+      "url":"http://warframe.wikia.com/wiki/Tenora",
+      "mr":10,
+      "type":"Primary",
+      "subtype":"Rifle",
+      "riven_disposition":"3",
+      "magazine":80,
+      "ammo":"800",
+      "polarities":"None",
+      "thumbnail":"https://vignette1.wikia.nocookie.net/warframe/images/d/d6/TnBardRifle.png/revision/latest/scale-to-width-down/220?cb=20170324230206",
+      "location":"Dojo",
+      "primary":{
+         "trigger":"Auto",
+         "projectile":"Hit-Scan",
+         "rate":11.67,
+         "flight":"",
+         "noise":"Alarming",
+         "accuracy":12.5,
+         "reload":"2.5s",
+         "damage":"23",
+         "impact":"6.9",
+         "puncture":"9.2",
+         "slash":"6.9",
+         "crit_chance":"25%",
+         "crit_mult":"2.0x",
+         "status_chance":"15%"
+      },
+      "secondary":{
+         "trigger":"Charge (0.8s)",
+         "projectile":"Projectile",
+         "rate":10,
+         "flight":"",
+         "noise":"Alarming",
+         "accuracy":12.5,
+         "reload":"2.0s",
+         "damage":"23",
+         "impact":"4.6",
+         "puncture":"13.8",
+         "slash":"4.6",
+         "crit_chance":"33%",
+         "crit_mult":"3.0x",
+         "status_chance":"11%"
+      }
    },
    {
-      "regex":"tetra",
+      "regex":"^tetra$",
       "name":"Tetra",
       "url":"http://warframe.wikia.com/wiki/Tetra",
       "mr":3,
@@ -2381,7 +2381,7 @@
       "location":"Market"
    },
    {
-      "regex":"prisma\\stetra",
+      "regex":"^prisma\\stetra$",
       "name":"Prisma Tetra",
       "url":"http://warframe.wikia.com/wiki/Prisma_Tetra",
       "mr":4,
@@ -2409,7 +2409,7 @@
       "location":"Baro"
    },
    {
-      "regex":"tiberon",
+      "regex":"^tiberon$",
       "name":"Tiberon",
       "url":"http://warframe.wikia.com/wiki/Tiberon",
       "mr":4,
@@ -2437,7 +2437,7 @@
       "location":"Market"
    },
    {
-      "regex":"tigris",
+      "regex":"^tigris$",
       "name":"Tigris",
       "url":"http://warframe.wikia.com/wiki/Tigris",
       "mr":4,
@@ -2465,7 +2465,7 @@
       "location":"Market"
    },
    {
-      "regex":"tigris\\sprime",
+      "regex":"^tigris\\sprime$",
       "name":"Tigris Prime",
       "url":"http://warframe.wikia.com/wiki/Tigris_Prime",
       "mr":13,
@@ -2493,7 +2493,7 @@
       "location":"Relics"
    },
    {
-      "regex":"sancti\\stigris",
+      "regex":"^sancti\\stigris$",
       "name":"Sancti Tigris",
       "url":"http://warframe.wikia.com/wiki/Sancti_Tigris",
       "mr":12,
@@ -2521,7 +2521,7 @@
       "location":"Syndicate"
    },
    {
-      "regex":"tonkor",
+      "regex":"^tonkor$",
       "name":"Tonkor",
       "url":"http://warframe.wikia.com/wiki/Tonkor",
       "mr":5,
@@ -2549,7 +2549,7 @@
       "location":"Market"
    },
    {
-      "regex":"torid",
+      "regex":"^torid$",
       "name":"Torid",
       "url":"http://warframe.wikia.com/wiki/Torid",
       "mr":4,
@@ -2577,7 +2577,7 @@
       "location":"Dojo"
    },
    {
-      "regex":"vectis",
+      "regex":"^vectis$",
       "name":"Vectis",
       "url":"http://warframe.wikia.com/wiki/Vectis",
       "mr":3,
@@ -2606,7 +2606,7 @@
       "location":"Market"
    },
    {
-      "regex":"vectis\\sprime",
+      "regex":"^vectis\\sprime$",
       "name":"Vectis Prime",
       "url":"http://warframe.wikia.com/wiki/Vectis_Prime",
       "mr":3,
@@ -2635,7 +2635,7 @@
       "location":"Relics"
    },
    {
-      "regex":"vulkar",
+      "regex":"^vulkar$",
       "name":"Vulkar",
       "url":"http://warframe.wikia.com/wiki/Vulkar",
       "mr":0,
@@ -2664,7 +2664,7 @@
       "location":"Market"
    },
    {
-      "regex":"vulkar\\swraith",
+      "regex":"^vulkar\\swraith$",
       "name":"Vulkar Wraith",
       "url":"http://warframe.wikia.com/wiki/Vulkar_Wraith",
       "mr":0,
@@ -2693,7 +2693,7 @@
       "location":"Baro"
    },
    {
-      "regex":"zarr",
+      "regex":"^zarr$",
       "name":"Zarr",
       "multiStage":true,
       "url":"http://warframe.wikia.com/wiki/Zarr",
@@ -2706,41 +2706,41 @@
       "polarities":"<:madurai:319586146499690496>",
       "thumbnail":"https://vignette.wikia.nocookie.net/warframe/images/4/4b/GrineerCannon.png/revision/latest/scale-to-width-down/220?cb=20161117022350",
       "location":"Market",
-      "primary": {
-        "trigger":"Semi-Auto",
-        "projectile":"Hitscan",
-        "rate":1.67,
-        "flight":"-",
-        "noise":"Alarming",
-        "accuracy":100,
-        "reload":"2.3s",
-        "damage":"560",
-        "impact":"168.0",
-        "puncture":"280.0",
-        "slash":"112.0",
-        "crit_chance":"15%",
-        "crit_mult":"2.5x",
-        "status_chance":"20%"
+      "primary":{
+         "trigger":"Semi-Auto",
+         "projectile":"Hitscan",
+         "rate":1.67,
+         "flight":"-",
+         "noise":"Alarming",
+         "accuracy":100,
+         "reload":"2.3s",
+         "damage":"560",
+         "impact":"168.0",
+         "puncture":"280.0",
+         "slash":"112.0",
+         "crit_chance":"15%",
+         "crit_mult":"2.5x",
+         "status_chance":"20%"
       },
-      "secondary": {
-        "trigger":"Semi-Auto",
-        "projectile":"Explosive",
-        "rate":1.67,
-        "flight":"-",
-        "noise":"Alarming",
-        "accuracy":100,
-        "reload":"2.3s",
-        "damage":"1751<:blast:321463957292318720> - 251",
-        "impact":"25.0",
-        "puncture":"-",
-        "slash":"-",
-        "crit_chance":"15%",
-        "crit_mult":"2.5x",
-        "status_chance":"20%"
+      "secondary":{
+         "trigger":"Semi-Auto",
+         "projectile":"Explosive",
+         "rate":1.67,
+         "flight":"-",
+         "noise":"Alarming",
+         "accuracy":100,
+         "reload":"2.3s",
+         "damage":"1751<:blast:321463957292318720> - 251",
+         "impact":"25.0",
+         "puncture":"-",
+         "slash":"-",
+         "crit_chance":"15%",
+         "crit_mult":"2.5x",
+         "status_chance":"20%"
       }
    },
    {
-      "regex":"zhuge",
+      "regex":"^zhuge$",
       "name":"Zhuge",
       "url":"http://warframe.wikia.com/wiki/Zhuge",
       "mr":0,
