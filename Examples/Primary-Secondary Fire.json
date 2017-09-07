@@ -26,7 +26,7 @@
     "slash":"6.9",
     "crit_chance":"25%",
     "crit_mult":"2.0x",
-    "status_chance":"15%",
+    "status_chance":"15%"
   },
   "secondary": {
     "trigger":"Charge (0.8s)",
@@ -42,6 +42,6 @@
     "slash":"4.6",
     "crit_chance":"33%",
     "crit_mult":"3.0x",
-    "status_chance":"11%",
+    "status_chance":"11%"
   }
-},
+}
