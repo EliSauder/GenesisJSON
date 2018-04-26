@@ -10,3 +10,5 @@
 Boop, we have an api for that now: [Weapons](https://api.warframestat.us/weapons) and [search](https://api.warframestat.us/weapons/search/).
 
 You can contribute to the project where we generate our weapons data over [here](https://github.com/wfcd/warframe-wikia-scrapers).
+
+[Docs](https://docs.warframestat.us). yaaaay, docs.
